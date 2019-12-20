@@ -154,6 +154,12 @@ p{
         position: relative;
     }
     
+    .tz-gallery .lightbox video {
+        width: 100%;
+        border-radius: 0;
+        position: relative;
+    }
+
     .tz-gallery .lightbox:before {
         position: absolute;
         top: 50%;
@@ -391,6 +397,14 @@ p{
 /* ============================ contact page==================================*/
 
 
+.contact-welcome-section{
+	background-image: url(../img/AdobeStock_284840354_Preview.jpeg);
+	background-size: cover;
+	background-position: center;
+	background-color: rgb(216, 215, 215);
+	background-blend-mode: multiply;
+	height: 60vh;
+}
 
 /* blue form */
 .blue-form{
@@ -421,6 +435,9 @@ p{
 		position: relative !important;
 		top: 31px !important;
 		left:255px !important;
+	}
+	.contact-welcome-section h1{
+		font-size: 50px !important;
 	}
 }
 
@@ -472,8 +489,20 @@ p{
 
 /* ============================ Our programme==================================*/
 
+.programme-welcome-section{
+	background-image: url(../img/AdobeStock_284840354_Preview.jpeg);
+	background-size: cover;
+	background-position: center;
+	background-color: rgb(216, 215, 215);
+	background-blend-mode: multiply;
+	height: 60vh;
+}
 
-
+@media (max-width: 768px){
+	.programme-welcome-section h1{
+		font-size: 50px !important;
+	}
+}
 
 
 /* ============================ Our programme END==================================*/
