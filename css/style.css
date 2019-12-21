@@ -59,11 +59,14 @@ p{
 }
 
 @media (max-width:768px){
+	.carousel{
+		height: 35vh !important;
+	}
 	.custom-hero{
 		text-align: center;
 	}
 	.hero{
-		top: -339px;
+		top: -210px;
 	}
 }
 
@@ -75,9 +78,7 @@ p{
 .custom-margin{
 	margin-top: -200px;
 }
-.cust-padding{
-	padding: 50px;
-}
+
 .card{
 	transition: all 0.3s ease-in-out;
 }
@@ -90,13 +91,9 @@ p{
 @media (max-width:768px){
 	.custom-margin{
 		text-align: center;
-		margin-top: -300 !important;
 	}
 	.custum-margin h2{
 		text-align:center;
-	}
-	.cust-padding{
-		padding: 0px;
 	}
 }
 
