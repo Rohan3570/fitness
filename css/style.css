@@ -50,7 +50,7 @@ p{
 /* welcome section*/
 
 .vid{
-        height: 90vh;
+        height: 70vh;
         overflow: hidden;
         z-index: 40;
 }
@@ -58,13 +58,6 @@ video{
   width: 100vw;
   height: auto;
 
-}
-#overlay{
-  position: absolute;
-  width: 100vw;
-  height: 90vh;
-  background-color: rgba(0, 0, 0, 0.2);
-  top: 81px;
 }
 
 .hero{
@@ -79,14 +72,34 @@ video{
 } */
 
 @media (max-width:768px){
-	.carousel{
+	/* .carousel{
 		height: 35vh !important;
-	}
-	.custom-hero{
-		text-align: center;
-	}
+	} */
 	.hero{
-		top: -210px;
+		top: -235px;
+		height: 300px;
+	}
+	.cust-align{
+		text-align:center;
+	}
+	.vid{
+		height: 32vh;
+	}
+	.hero h3{
+		font-size: 40px;
+	}
+	.hero p{
+		padding: 15px;
+	}
+}
+
+@media (max-width:475px){
+	.hero{
+		top: -265px;
+		height: 216px;
+	}
+	.vid{
+		height: 32vh;
 	}
 }
 
