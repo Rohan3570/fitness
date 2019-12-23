@@ -13,7 +13,7 @@ body{
 }
 
 h1,h2,h3,h4,h5,h6{
-        color: #000000;
+        color: #2d338b;
         font-family: 'Open Sans', sans-serif;
 
 }
@@ -38,10 +38,13 @@ p{
 /* header nav */
 
 .bg-custom{
-        background-color: #000000 !important;
+        background-color: #2d338b !important;
 }
 #navbar{
 	z-index: 4;
+}
+.active-nav{
+	color: #f0b50a !important;
 }
 
 /* header end */
@@ -262,7 +265,7 @@ video{
 /* footer */
 
 .footer-distributed{
-	background-color: #1947db;
+	background-color: #2d338b;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
 	box-sizing: border-box;
 	width: 100%;
@@ -327,7 +330,7 @@ video{
 }
 
 .footer-distributed .footer-center i{
-	background-color:  #1947db;
+	background-color:  #2d338b;
 	color: #ffffff;
 	font-size: 25px;
 	width: 38px;
@@ -395,7 +398,7 @@ video{
 	width: 35px;
 	height: 35px;
 	cursor: pointer;
-	background-color:  #1947db;
+	background-color:  #2d338b;
 	border-radius: 2px;
 
 	font-size: 20px;
