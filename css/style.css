@@ -1,6 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway|Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
+:root{
+	--red-color: red;
+	--blue-color: blue;
+	--yellow-color: yellow;
+	--black-color: black;
+
+}
+
 *{
         margin: 0;
         padding : 0;
@@ -13,16 +21,16 @@ body{
 }
 
 h1,h2,h3,h4,h5,h6{
-        color: #2d338b;
+        color: var(--blue-color);
         font-family: 'Open Sans', sans-serif;
 
 }
 a{
 	font-family: 'Open Sans', sans-serif;
-	font-size: 14px !important;
+	font-size: 16px !important;
 }
 p{
-        color: rgb(44, 44, 44);
+        color: var(--black-color);
         font-family: 'Open Sans', sans-serif;
 }
 .btn{
@@ -38,10 +46,14 @@ p{
 /* header nav */
 
 .bg-custom{
-        background-color: #2d338b !important;
+	position: relative;
+	background-color: #2d338b !important;
+	height: 50px;
+	z-index:4;	
 }
 #navbar{
 	z-index: 4;
+	height: 0px;
 }
 .active-nav{
 	color: #f0b50a !important;
@@ -53,9 +65,10 @@ p{
 /* welcome section*/
 
 .vid{
+	position: relative;
         height: 70vh;
         overflow: hidden;
-        z-index: 40;
+	z-index: 3;
 }
 video{
   width: 100vw;
@@ -69,6 +82,7 @@ video{
 	height: 200px;
 	top: -269px;
 	overflow-y: hidden;
+	z-index: 4;
 }
 /* .custom-hero{
 	text-shadow: rgb(255, 255, 255) 1px 2px 10px;
@@ -94,6 +108,12 @@ video{
 	.hero p{
 		padding: 15px;
 	}
+	.bg-custom{
+		height: auto;
+	}
+	.custom-top-info{
+		font-size: 12px;
+	}
 }
 
 @media (max-width:475px){
@@ -103,6 +123,9 @@ video{
 	}
 	.vid{
 		height: 32vh;
+	}
+	.cust-top-info p{
+		font-size: 14px;
 	}
 }
 
@@ -119,7 +142,7 @@ video{
 	transition: all 0.3s ease-in-out;
 }
 .card:hover{
-	transform: scale(1.1);
+	transform: scale(1.08);
 	cursor: pointer;
 	box-shadow: rgb(44, 44, 44) 3px 3px 11px;
 }
