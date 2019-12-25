@@ -449,7 +449,7 @@ video{
         border: none;
         border-radius: 20px;
         margin-bottom: 20px;
-        background-color: var(--yellow);+
+        background-color: var(--yellow);
 }
 
 @media (max-width: 768px){
@@ -460,3 +460,20 @@ video{
 
 
 /* ============================ Team page END==================================*/
+
+
+
+
+
+/* ============================ Why page page==================================*/
+
+
+@media (max-width: 768px){
+        .choose .container{
+                padding: 40px 0px !important;
+        }
+}
+
+
+/* ============================ Why page page END==================================*/
+
