@@ -53,7 +53,7 @@ p{
 
 .bg-custom{
 	position: relative;
-	background-color: var(--yellow) !important;
+	background-color: var(--black) !important;
 	height: 50px;
 	z-index:4;	
 }
@@ -65,7 +65,7 @@ p{
 	z-index: 29;
 }
 .active-nav{
-	color: var(--light-blue) !important;
+	color: var(--yellow) !important;
 }
 .cust-text{
 	color: var(--light-blue) !important;
@@ -166,7 +166,7 @@ video{
 /* information section */
 
 .information{
-	background-color: var(--pink);
+	background-color: var(--yellow);
 	border:none;
 	border-radius: 10px;
 }
@@ -359,7 +359,7 @@ video{
 	overflow-y: hidden;
 }
 .cust-bg-about-sec1{
-	background-color: var(--pink);
+	background-color: var(--yellow);
 	border: none;
 	border-radius: 20px;
 }
@@ -449,7 +449,7 @@ video{
         border: none;
         border-radius: 20px;
         margin-bottom: 20px;
-        background-color: var(--yellow);
+        background-color: var(--yellow);+
 }
 
 @media (max-width: 768px){
