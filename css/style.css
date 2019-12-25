@@ -23,7 +23,7 @@ body{
 }
 
 h1,h2,h3,h4,h5,h6{
-        color: var(--yellow);
+        color: var(--light-blue);
         font-family: 'Open Sans', sans-serif;
 
 }
@@ -342,6 +342,10 @@ video{
 	height: 55vh !important;
 	overflow-y: hidden;
 }
+.carousel-caption{
+	height: 55vh !important;
+	overflow-y: hidden;
+}
 
 .c-about{
 	height: 80vh;
@@ -368,6 +372,9 @@ video{
 
 @media (max-width: 768px){
 	.carousel{
+		height: auto !important;
+	}
+	.carousel-caption{
 		height: auto !important;
 	}
 	
@@ -421,3 +428,35 @@ video{
 
 
 /* ============================ Our programme END==================================*/
+
+
+
+
+
+
+
+
+/* ============================ Team page==================================*/
+
+
+.team img{
+        border: none;
+        border-radius: 50%;
+        width: 200px;
+}
+
+.team-member{
+        border: none;
+        border-radius: 20px;
+        margin-bottom: 20px;
+        background-color: var(--yellow);
+}
+
+@media (max-width: 768px){
+        .team img{
+                width: 100px;
+        }
+}
+
+
+/* ============================ Team page END==================================*/
