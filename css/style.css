@@ -96,6 +96,11 @@ video{
 	z-index: 4;
 }
 
+.carousel img{
+        object-fit: cover !important;
+        object-position: center !important;
+}
+
 
 @media (max-width:768px){
 	.carousel{
@@ -288,7 +293,7 @@ video{
 	background-position: center;
 	background-color: var(--white);
 	background-blend-mode: multiply;
-	height: 60vh;
+	height: 40vh;
 }
 .blue-form{
 	background-color: var(--light-blue);
