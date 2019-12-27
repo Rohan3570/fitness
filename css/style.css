@@ -288,7 +288,7 @@ video{
 /* ============================ contact page==================================*/
 
 .contact-welcome-section{
-	background-image: url(../img/AdobeStock_284840354_Preview.jpeg);
+	background-image: url(../img/images/school-program.JPG);
 	background-size: cover;
 	background-position: center;
 	background-color: var(--white);
@@ -354,17 +354,25 @@ video{
 	height: 55vh !important;
 	overflow-y: hidden;
 }
+.c-margin-about{
+        margin-top: -160px;
+}
+
+.cust-overlay{
+        object-fit: cover;
+        object-position: bottom;
+}
 
 .c-about{
 	height: 80vh;
 }
 .c-hero{
         position: relative;
-        width: 100%;
+        width: 70%;
         height: 200px;
-	top: -350px;
-	left: 40px;
-	overflow-y: hidden;
+	top: -250px;
+	left: 80px;
+	overflow: hidden;
 }
 .cust-bg-about-sec1{
 	background-color: var(--yellow);
@@ -384,20 +392,19 @@ video{
 	}
 	.carousel-caption{
 		height: auto !important;
-	}
+        }
+        .c-hero .h3, .c-hero .p{
+                text-align: center !important;
+        }
 	
 }
 
 
 @media (max-width: 425px){
 	.c-hero{
-		position: relative;
-		width: 100%;
-		height: 200px;
 		top: -250px;
-		overflow-y: hidden;
 		text-align: center !important;
-	}
+        }
 	.c-about{
 		height: 40vh;
 	}
@@ -504,3 +511,37 @@ video{
 
 /* ============================ Why page page END==================================*/
 
+
+
+
+
+
+/*============================= gellery============================================*/
+
+.gallery-welcome-section{
+	background-image: url(../img/images/slide-2.JPG);
+	background-size: cover;
+	background-position: center;
+	background-color: var(--white);
+	background-blend-mode: multiply;
+	height: 40vh;
+}
+
+/*===============================gallery end ======================================*/
+
+
+
+
+
+/*===============================contact========================================*/
+
+.career-welcome-section{
+	background-image: url(../img/images/slide-4.JPG);
+	background-size: cover;
+	background-position: center;
+	background-color: var(--white);
+	background-blend-mode: multiply;
+	height: 40vh;
+}
+
+/*-=======-=======================contact end=================================*/
