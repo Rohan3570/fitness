@@ -77,13 +77,14 @@ p{
 
 .vid{
 	position: relative;
-        height: 70vh;
+        height: 85vh;
         overflow: hidden;
 	z-index: 3;
 }
 video{
   width: 100vw;
   height: auto;
+  object-fit: cover;
 
 }
 
