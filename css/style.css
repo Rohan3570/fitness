@@ -95,6 +95,15 @@ video{
 	z-index: 4;
 }
 
+.btn-hero{
+	position: relative;
+	width: 100%;
+	height: auto;
+	top: -300px;
+	overflow-y: hidden;
+	z-index: 4;
+}
+
 .carousel img{
         object-fit: cover !important;
         object-position: center !important;
