@@ -86,7 +86,7 @@
 
 
 <div class="vid">
-    <video autoplay="true" muted="false" loop="true">
+    <video id="mute-video" autoplay muted loop>
       <source src="img/videos/homepage-video.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
@@ -98,12 +98,40 @@
                 <div class="row text-left">
                         <div class="col-md-4 col-sm-8">
                                 <h3 class="display-4 cust-align font-weight-bold">Lorem ipsum odor</h3>
-                                <p class="text-white cust-align">We look forward to assisting you throughout your matter. bla bla bla bla</p>
+                                <p class="text-white cust-align">We look forward to assisting you throughout your matter. bla bla bla bla </p>
                         </div>
                 </div>
         </div>
 </section>
 
+<section class="hero d-flex align-items-top">
+        <div class="container">
+                <div class="row">
+                        <div class="col-12 d-flex justify-content-end">
+                                <button type="submit" onclick="unmute()" class="btn">play audio<i class="fas fa-volume-up"></i></button>/<button onclick="mute()" type="button" class="btn">Mute audio<i class="fas fa-volume-mute"></i></button>
+                        </div>
+                </div>
+        </div>
+</section>
+<div class="col-md-8 col-sm-4 d-flex justify-content-end align-items-end mb-1">
+
+</div>
+
+
+
+
+<script> 
+        var myVideo = document.getElementById("mute-video"); 
+
+        
+                function mute() { 
+                myVideo.muted=true;
+                } 
+                
+                function unmute() {
+                        myVideo.muted=false;
+                }
+        </script> 
 <!--video section END-->
 
 
