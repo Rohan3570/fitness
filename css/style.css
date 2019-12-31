@@ -57,10 +57,6 @@ p{
 	height: 50px;
 	z-index:4;	
 }
-#navbar{
-	z-index: 4;
-	height: 0px;
-}
 .navbar-toggler{
 	z-index: 29;
 }
@@ -82,10 +78,12 @@ p{
 	z-index: 3;
 }
 video{
-  width: 100vw;
-  height: auto;
-  object-fit: cover;
-
+        width: 100vw;
+        height: auto;
+        display: inline-block;
+        vertical-align: center;
+        object-fit: contain;
+        margin-top: -60px;
 }
 
 .hero{
@@ -115,8 +113,11 @@ video{
 		text-align:center;
 	}
 	.vid{
-		height: 32vh;
-	}
+		height: 52vh;
+        }
+        video{
+                margin-top: 0px;
+        }
 	.hero h3{
 		font-size: 40px;
 	}
