@@ -72,16 +72,15 @@ p{
 /* welcome section*/
 
 .vid{
-	position: relative;
+	position: absolute;
         height: 85vh;
         overflow: hidden;
-	z-index: 3;
+	z-index: -1;
 }
 video{
         width: 100vw;
         height: auto;
         display: inline-block;
-        vertical-align: center;
         object-fit: contain;
         margin-top: -60px;
 }
@@ -89,24 +88,29 @@ video{
 .hero{
 	position: relative;
 	width: 100%;
-	height: 200px;
-	top: -269px;
+	height: 75vh;
 	overflow-y: hidden;
 	z-index: 4;
 }
 
 .btn-hero{
-	position: relative;
+	position: absolute;
 	width: 100%;
-	height: auto;
-	top: -300px;
+	height: 80px;
 	overflow-y: hidden;
-	z-index: 4;
+	z-index: 5;
 }
 
 .carousel img{
         object-fit: cover !important;
         object-position: center !important;
+}
+
+@media (max-width: 1024px){
+        .hero{
+                height: 57vh;
+        }
+        
 }
 
 
@@ -115,9 +119,8 @@ video{
 		height: 35vh !important;
 	}
 	.hero{
-		top: -235px;
-		height: 300px;
-	}
+                height: 35vh !important;
+        }
 	.cust-align{
 		text-align:center;
 	}
@@ -144,12 +147,15 @@ video{
 
 @media (max-width:475px){
 	.hero{
-		top: -265px;
-		height: 216px;
-	}
+		height: 216px !important;
+        }
 	.vid{
 		height: 32vh;
-	}
+        }
+        
+        .btn-hero{
+                top: 35vh;
+        }
 }
 
 /* welcome end */
@@ -157,9 +163,6 @@ video{
 
 /* section 1 */
 
-.custom-margin{
-	margin-top: -200px;
-}
 
 .card{
 	border-radius: 10px !important;
@@ -168,11 +171,17 @@ video{
 
 @media (max-width:768px){
 	.custom-margin{
-		text-align: center;
+                text-align: center;
 	}
 	.custum-margin h2{
 		text-align:center;
 	}
+}
+
+@media (max-width: 425px){
+        .custom-margin{
+                margin: 0 !important;
+        }
 }
 
 /* section 1 end */
