@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway|Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Source+Sans+Pro&display=swap');
 
 :root{
 	--black: #05060a;
@@ -24,16 +25,25 @@ body{
 
 h1,h2,h3,h4,h5,h6{
         color: var(--light-blue);
-        font-family: 'Open Sans', sans-serif;
+        font-family: 'Playfair Display', serif;
 
 }
 a{
-	font-family: 'Open Sans', sans-serif;
+        font-family: 'Source Sans Pro', sans-serif;
 	font-size: 16px !important;
 }
 p{
         color: var(--black);
-        font-family: 'Open Sans', sans-serif;
+        font-family: 'Source Sans Pro', sans-serif;
+}
+.text-blue{
+        color: var(--light-blue) !important;
+}
+.text-yellow{
+        color: var(--yellow) !important;
+}
+.text-green{
+        color: var(--green) !important;
 }
 .btn{
 	background-color: var(--yellow) !important;
@@ -43,7 +53,8 @@ p{
 	transition: all 0.1s ease-in-out !important;
 }
 .btn:hover{
-	transform: scale(1.2);
+        transform: scale(1.2);
+        background-color: var(--green) !important;
 }
 
 /*global end */
@@ -63,8 +74,13 @@ p{
 .active-nav{
 	color: var(--yellow) !important;
 }
+
 .cust-text{
-	color: var(--light-blue) !important;
+        color: var(--light-blue);
+}
+
+.cust-heading-video{
+        text-shadow: 2px 3px  rgb(145, 145, 145) !important;
 }
 /* header end */
 
@@ -90,7 +106,7 @@ video{
 	width: 100%;
 	height: 75vh;
 	overflow-y: hidden;
-	z-index: 4;
+	z-index: 0;
 }
 
 .btn-hero{
@@ -98,7 +114,7 @@ video{
 	width: 100%;
 	height: 80px;
 	overflow-y: hidden;
-	z-index: 5;
+	z-index: 0;
 }
 
 .carousel img{
@@ -109,6 +125,13 @@ video{
 @media (max-width: 1024px){
         .hero{
                 height: 57vh;
+        }
+        
+}
+
+@media (max-width: 800px){
+        .hero{
+                height: 27vh !important;
         }
         
 }
@@ -142,7 +165,10 @@ video{
 	.cust-text{
 		font-size: 10px !important;
 		text-align: center; 
-	}
+        }
+        .cust-heading-video{
+                font-size: 28px !important;
+        }
 }
 
 @media (max-width:475px){
