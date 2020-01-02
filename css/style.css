@@ -12,9 +12,11 @@
 
 }
 
-*{
+*, *:before, *:after {
         margin: 0;
         padding : 0;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
         box-sizing: border-box;
 }
 
@@ -60,13 +62,15 @@ p{
 /*global end */
 
 
+
+
 /* header nav */
 
 .bg-custom{
 	position: relative;
 	background-color: var(--black) !important;
 	height: 50px;
-	z-index:4;	
+	z-index:7;	
 }
 .navbar-toggler{
 	z-index: 29;
@@ -106,13 +110,18 @@ video{
 	width: 100%;
 	/* height: 75vh; */
 	overflow-y: hidden;
-	z-index: 0;
+        z-index: 0;
+        top: -70px;
+}
+
+.cust-fun-background{
+        background-color: rgba(83, 83, 83, 0.13);
 }
 
 .btn-hero{
 	position: absolute;
         width: 100%;
-        top: 75vh;
+        top: 580px;
         height: 80px;
 	overflow-y: hidden;
 	z-index: 1;
@@ -123,6 +132,7 @@ video{
         object-position: center !important;
 }
 
+
 @media (max-width: 1024px){
         /* .hero{
                 height: 57vh;
@@ -131,15 +141,24 @@ video{
         .btn-hero{
                 top: 75vh;
         }    
+        .bg-custom{
+                height: auto !important;	
+        }
 }
 
 @media (max-width: 800px){
         /* .hero{
                 height: 27vh !important;
         } */
+        .vid{
+                height: 31vh !important;
+        }
         .btn-hero{
-                top: 65vh;
+                top: 35vh;
         } 
+        .bg-custom{
+                height: auto !important;	
+        }
         
 }
 
@@ -162,7 +181,7 @@ video{
         }
 
         .btn-hero{
-                top: 45vh;
+                top: 370px;
         } 
 
 	.hero h3{
