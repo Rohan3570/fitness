@@ -93,7 +93,7 @@ p{
 
 .vid{
 	position: relative;
-        height: 85vh;
+        height: 500px;
         overflow: hidden;
 	z-index: -1;
 }
@@ -121,7 +121,7 @@ video{
 .btn-hero{
 	position: absolute;
         width: 100%;
-        top: 580px;
+        top: 560px;
         height: 80px;
 	overflow-y: hidden;
 	z-index: 1;
@@ -139,7 +139,7 @@ video{
         } */
         
         .btn-hero{
-                top: 75vh;
+                top: 480px;
         }    
         .bg-custom{
                 height: auto !important;	
@@ -151,10 +151,10 @@ video{
                 height: 27vh !important;
         } */
         .vid{
-                height: 31vh !important;
+                height: 400px;
         }
         .btn-hero{
-                top: 35vh;
+                top: 390px;
         } 
         .bg-custom{
                 height: auto !important;	
@@ -174,7 +174,7 @@ video{
 		text-align:center;
 	}
 	.vid{
-		height: 52vh;
+		height: 400px;
         }
         video{
                 margin-top: 0px;
@@ -207,11 +207,11 @@ video{
 		height: 216px !important;
         } */
 	.vid{
-		height: 32vh;
+		height: 300px;
         }
         
         .btn-hero{
-                top: 35vh;
+                top: 280px;
         }
 }
 
