@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway|Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 :root{
 	--black: #05060a;
@@ -27,16 +27,16 @@ body{
 
 h1,h2,h3,h4,h5,h6{
         color: var(--light-blue);
-        font-family: 'Playfair Display', serif;
+        font-family: 'Roboto', sans-serif;
 
 }
 a{
-        font-family: 'Source Sans Pro', sans-serif;
+        font-family: 'Raleway', sans-serif;
 	font-size: 16px !important;
 }
 p{
         color: var(--black);
-        font-family: 'Source Sans Pro', sans-serif;
+        font-family: 'Open sans', sans-serif;
 }
 .text-blue{
         color: var(--light-blue) !important;
@@ -103,11 +103,11 @@ video{
 }
 
 .hero{
-	position: relative;
+	position: absolute;
 	width: 100%;
 	overflow-y: hidden;
-        z-index: 0;
-        top: -70px;
+        z-index: 10;
+        margin-top: -200px;
 }
 
 
@@ -166,9 +166,17 @@ video{
         .btn-hero{
                 top: 370px;
         } 
-
-	.hero h3{
-		font-size: 40px;
+        .hero{
+                position: relative;
+                width: 100%;
+                overflow-y: hidden;
+                z-index: 10;
+                margin-top: 0;
+                padding: 50px;
+        }
+	.hero h1{
+                font-size: 40px;
+                text-align:center !important;
 	}
 	.hero p{
 		padding: 15px;
