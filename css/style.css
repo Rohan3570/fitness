@@ -1,7 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway|Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap');
 
 :root{
 	--black: #05060a;
@@ -108,12 +106,13 @@ video{
 	width: 100%;
 	overflow-y: hidden;
         z-index: 10;
-        margin-top: -120px;
+        margin-top: -90px;
 }
 
 .hero h2{
-        text-shadow: 3px 3px 5px var(--light-blue);
-        font-family: 'Oswald', sans-serif !important;
+        /* text-shadow: 3px 3px 5px var(--light-blue); */
+        font-family: 'Nunito', sans-serif !important;
+        font-size: 35px;
 }
 
 
@@ -138,6 +137,9 @@ video{
         .vid{
                 height: auto;
         }
+        .hero h2{
+                font-size: 28px;
+	}
 }
 
 @media (max-width: 800px){
@@ -151,6 +153,12 @@ video{
         .bg-custom{
                 height: auto !important;	
         }
+        .hero{
+                margin-top: -80px;
+        }
+        .hero h2{
+                font-size: 28px;
+	}
         
 }
 
@@ -178,10 +186,9 @@ video{
                 overflow-y: hidden;
                 z-index: 10;
                 margin-top: 0;
-                padding: 50px;
+                padding: 20px;
         }
 	.hero h2{
-                color: var(--light-blue) !important;
                 font-size: 35px;
                 text-align:center !important;
                 text-shadow: none;
@@ -210,6 +217,9 @@ video{
         .btn-hero{
                 top: 150px;
         }
+        .hero h2{
+                font-size: 25px;
+	}
 }
 
 /* welcome end */
