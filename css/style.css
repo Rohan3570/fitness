@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway|Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
 
 :root{
 	--black: #05060a;
@@ -112,6 +113,7 @@ video{
 
 .hero h2{
         text-shadow: 3px 3px 5px var(--light-blue);
+        font-family: 'Oswald', sans-serif !important;
 }
 
 
