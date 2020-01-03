@@ -107,7 +107,11 @@ video{
 	width: 100%;
 	overflow-y: hidden;
         z-index: 10;
-        margin-top: -200px;
+        margin-top: -120px;
+}
+
+.hero h2{
+        text-shadow: 3px 3px 5px var(--light-blue);
 }
 
 
@@ -174,9 +178,11 @@ video{
                 margin-top: 0;
                 padding: 50px;
         }
-	.hero h1{
-                font-size: 30px;
+	.hero h2{
+                color: var(--light-blue) !important;
+                font-size: 35px;
                 text-align:center !important;
+                text-shadow: none;
 	}
 	.hero p{
 		padding: 15px;
