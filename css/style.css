@@ -271,9 +271,17 @@ video{
 
 
 /* mission*/
+
+.our-mission{
+	padding-top: 195px !important;
+}
+
 @media (max-width:768px){
 	.cust-mission-image{
 		padding: 0px !important;
+	}
+	.our-mission{
+		padding-top: 0;
 	}
 }
 
