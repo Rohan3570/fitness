@@ -416,8 +416,20 @@ video{
 .bigicon{
 	position: relative !important;
 	top: 31px !important;
-	left:400px !important;
+	left:400px;
 	color: var(--black);
+}
+
+@media (max-width:1024px){
+        .bigicon{
+		left:328px;
+	}
+}
+
+@media (max-width:800px){
+        .bigicon{
+		left:208px;
+	}
 }
 
 @media (max-width: 768px){
@@ -430,12 +442,16 @@ video{
 		height: 380px !important;
 	}
 	.bigicon{
-		position: relative !important;
-		top: 31px !important;
-		left:255px !important;
+		left:210px;
 	}
 	.contact-welcome-section h1{
 		font-size: 50px !important;
+	}
+}
+
+@media (max-width:375px){
+        .bigicon{
+		left:217px;
 	}
 }
 
