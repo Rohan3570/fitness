@@ -106,15 +106,16 @@ video{
 	width: 100%;
 	overflow-y: hidden;
         z-index: 10;
-        background-image: url(../img/images/AACW5334\ copy.JPG);
+        margin-top: 80px;
+        background-image: url(../img/images/image-framed.png);
         background-color: rgb(170, 170, 170);
         background-blend-mode: multiply;
 	background-size: cover;
-	background-position: center;
+        background-position: center;
 }
 
 .hero h2{
-        /* text-shadow: 3px 3px 5px var(--light-blue); */
+        text-shadow: 3px 3px 5px var(--white);
         font-family: 'Nunito', sans-serif !important;
 }
 
@@ -188,13 +189,12 @@ video{
                 width: 100%;
                 overflow-y: hidden;
                 z-index: 10;
-                margin-top: 0;
+                margin-top: 15px;
                 padding: 20px;
         }
 	.hero h2{
                 font-size: 35px;
                 text-align:center !important;
-                text-shadow: none;
 	}
 	.hero p{
 		padding: 15px;
