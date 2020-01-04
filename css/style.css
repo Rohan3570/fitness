@@ -217,7 +217,10 @@ video{
         }
         .hero h2{
                 font-size: 25px;
-	}
+        }
+        .lotus-logo{
+                width: 50px;
+        }
 }
 
 /* welcome end */
