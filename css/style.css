@@ -33,6 +33,10 @@ a{
         font-family: 'Raleway', sans-serif;
 	font-size: 16px !important;
 }
+a:hover {
+        text-decoration: none !important;
+}
+
 p{
         color: var(--black);
         font-family: 'Open sans', sans-serif;
@@ -447,7 +451,7 @@ video{
 /* ============================ what we do(about)==================================*/
 
 .carousel{
-	height: 55vh !important;
+	height: 70vh;
 	overflow-y: hidden;
 }
 .carousel-caption{
@@ -464,14 +468,13 @@ video{
 }
 
 .c-about{
-	height: 80vh;
+	height: auto;
 }
 .c-hero{
         position: relative;
         width: 70%;
         height: 200px;
 	top: -250px;
-	left: 80px;
 	overflow: hidden;
 }
 .cust-bg-about-sec1{
@@ -485,6 +488,16 @@ video{
 	border-radius: 20px;
 }
 
+@media (max-width: 992px){
+	.carousel{
+		height: auto;
+	}
+	.carousel-caption{
+		height: auto !important;
+        }
+	
+}
+
 
 @media (max-width: 768px){
 	.carousel{
@@ -496,14 +509,27 @@ video{
         .c-hero .h3, .c-hero .p{
                 text-align: center !important;
         }
+        .c-hero h3{
+                font-size: 35px;
+        }
+        .c-hero p{
+                font-size: 18px;
+        }
 	
 }
 
 
 @media (max-width: 425px){
 	.c-hero{
-		top: -250px;
-		text-align: center !important;
+		top: -200px;
+                text-align: center !important;
+                width: 100%;
+        }
+        .c-hero h3{
+                font-size: 25px;
+        }
+        .c-hero p{
+                font-size: 12px;
         }
 	.c-about{
 		height: 40vh;
@@ -570,6 +596,9 @@ video{
         .team img{
                 width: 100px;
         }
+        .carousel-caption h1{
+                font-size: 30px;
+        }
 }
 
 /* ============================ Team page END==================================*/
@@ -583,10 +612,34 @@ video{
 
 /* ============================ Why page page==================================*/
 
-@media (max-width: 768px){
-        .choose .container{
-                padding: 40px 0px !important;
+@media (max-width: 1024px){
+        .why-us-section .container{
+                padding: 0 !important;
         }
+        .choose{
+                width: 100px;
+        }
+
+}
+
+@media (max-width: 992px){
+        .why-us-section .container{
+                padding: 0 !important;
+        }
+        .choose{
+                width: 100px;
+        }
+
+}
+
+@media (max-width: 768px){
+        .why-us-section .container{
+                padding: 0 !important;
+        }
+        .choose{
+                width: 80px;
+        }
+
 }
 
 /* ============================ Why page page END==================================*/
@@ -618,14 +671,6 @@ video{
 
 /*============================= gellery============================================*/
 
-.gallery-welcome-section{
-	background-image: url(../img/images/slide-2.JPG);
-	background-size: cover;
-	background-position: center;
-	background-color: var(--white);
-	background-blend-mode: multiply;
-	height: 40vh;
-}
 
 /*===============================gallery end ======================================*/
 
