@@ -120,8 +120,13 @@ video{
 }
 
 .hero h2{
-        text-shadow: 3px 3px 5px var(--white);
-        font-family: 'Nunito', sans-serif !important;
+        text-shadow:
+        -2px -1px 0 var(--light-blue),  
+         2px -1px 0 var(--light-blue),
+         -2px 1px 0 var(--light-blue),
+          2px 1px 0 var(--light-blue);
+        font-family: 'Nunito',sans-serif !important;
+        font-size: 40px;
 }
 
 
@@ -167,6 +172,7 @@ video{
         }
         .hero h2{
                 font-size: 28px;
+                -webkit-text-stroke-width: 1px;
 	}
         
 }
@@ -201,6 +207,7 @@ video{
 	.hero h2{
                 font-size: 35px;
                 text-align:center !important;
+                -webkit-text-stroke-width: 1px;
 	}
 	.hero p{
 		padding: 15px;
