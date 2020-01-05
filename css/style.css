@@ -113,7 +113,7 @@ video{
         z-index: 10;
         margin-top: 80px;
         background-image: url(../img/images/image-framed.png);
-        background-color: rgb(170, 170, 170);
+        background-color: rgb(240, 240, 240);
         background-blend-mode: multiply;
 	background-size: cover;
         background-position: bottom;
