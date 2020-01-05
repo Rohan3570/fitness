@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Source+Sans+Pro:700,900&display=swap');
 
 :root{
 	--black: #05060a;
@@ -114,14 +113,13 @@ video{
         z-index: 7;
 }
 
-.cust-test-leap h1,.cust-test-leap p{
+.cust-test-leap h1{
         font-family: 'Source Sans Pro', sans-serif;
         text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.45);
-}
-.cust-test-leap h1{
         font-size: 3.75rem;
         font-weight: 900;
 }
+
 
 .hero{
 	position: relative;
@@ -138,6 +136,7 @@ video{
 }
 
 .hero h2{
+        display:none;
         text-shadow:
         -2px -1px 0 var(--light-blue),  
          2px -1px 0 var(--light-blue),
@@ -252,10 +251,11 @@ video{
                 top: 150px;
         }
         .hero h2{
+                display: block;
                 font-size: 25px;
         }
-        .Guru-logo{
-                width: 50px;
+        .cust-test-leap{
+                display: none !important;
         }
 }
 
