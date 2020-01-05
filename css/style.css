@@ -279,9 +279,15 @@ video{
 	border-radius: 10px;
 }
 
+@media (max-width:992px){
+	.info-img{
+		width: 300px !important;
+	}
+}
+
 @media (max-width:768px){
 	.info-img{
-		width: 100px !important;
+		width: 200px !important;
 	}
 }
 
