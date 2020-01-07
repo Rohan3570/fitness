@@ -128,7 +128,7 @@ video{
 	overflow-y: hidden;
         z-index: 10;
         margin-top: 80px;
-        background-image: url(../img/images/image-framed.png);
+        background-image: url(../img/images/image-framed.jpg);
 	background-size: cover;
         background-position: bottom;
 }
