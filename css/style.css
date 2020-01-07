@@ -306,7 +306,7 @@ video{
 
 .fit-india-logo{
         position: absolute;
-        top: 0;
+        top: 5px;
         left: 0;
         width: 50px;
 }
