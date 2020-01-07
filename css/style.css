@@ -51,6 +51,9 @@ p{
 .text-green{
         color: var(--green) !important;
 }
+#info-header ul li a{
+        color: var(--black) !important;
+}
 .btn{
 	background-color: var(--yellow) !important;
 	border: 1px transparent !important;
@@ -61,6 +64,14 @@ p{
 .btn:hover{
         transform: scale(1.2);
         background-color: var(--green) !important;
+}
+
+.navbar ul li a {
+        color: var(--white) !important;
+}
+.navbar ul li a:hover 
+{
+        color: var(--yellow) !important;
 }
 
 /*global end */
@@ -83,9 +94,6 @@ p{
 	color: var(--yellow) !important;
 }
 
-.cust-text{
-        color: var(--light-blue);
-}
 
 /* header end */
 
