@@ -329,7 +329,7 @@ video{
 
 
 
-/* mission*/
+/* about section*/
 
 .our-mission{
 	padding-top: 195px !important;
@@ -345,7 +345,18 @@ video{
 }
 
 
-/* mission ends here(S.L.Jackson voice)*/
+/* about ends here(S.L.Jackson voice)*/
+
+/* school programs*/
+
+.school-programs{
+        position: relative;
+        background-color: var(--light-blue);
+	border:none;
+	border-radius: 10px;
+}
+
+/* school programs end*/
 
 
 
