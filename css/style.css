@@ -305,13 +305,13 @@ video{
 	border-radius: 10px;
 }
 
-.fit-india-logo{
+/* .fit-india-logo{
         position: absolute;
         top: 5px;
         left: 45%;
         margin: 0 auto;
         width: 30px;
-}
+} */
 
 @media (max-width:992px){
         .cust-mission-image{
