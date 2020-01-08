@@ -317,13 +317,13 @@ video{
         .cust-mission-image{
 		padding: 1rem;
         }
-
-@media (max-width:768px){
+}
+/* @media (max-width:768px){
 }
 
 @media (max-width:425px){
 
-}
+} */
 /* information end */
 
 
@@ -349,7 +349,6 @@ video{
 /* school programs*/
 
 .school-programs{
-        position: relative;
         background-color: var(--light-blue);
 
 }
