@@ -301,8 +301,6 @@ video{
 .information{
         position: relative;
 	background-color: var(--yellow);
-	border:none;
-	border-radius: 10px;
 }
 
 /* .fit-india-logo{
