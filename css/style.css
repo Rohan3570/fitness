@@ -646,6 +646,10 @@ video{
 	height: 60vh;
 }
 
+.programs-for-all{
+        background-color: var(--green);
+}
+
 @media (max-width: 768px){
 	.programme-welcome-section h1{
 		font-size: 50px !important;
