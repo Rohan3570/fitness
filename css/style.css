@@ -353,6 +353,13 @@ video{
 
 }
 
+.cust-quote::before{
+	content: "\201C";
+        font-size: 100px;
+        font-family: 'Nunito', sans-serif;
+        color: #27e64a54;
+}
+
 /* school programs end*/
 
 
