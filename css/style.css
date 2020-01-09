@@ -353,11 +353,17 @@ video{
 
 }
 
-.cust-quote::before{
-	content: "\201C";
-        font-size: 100px;
-        font-family: 'Nunito', sans-serif;
+.cust-quote{
         color: #27e64a54;
+}
+
+@media (max-width: 425px){
+        blockquote h2{
+                font-size: 22px;
+        }
+        #left-quote{
+                width: 50px;
+        }
 }
 
 /* school programs end*/
