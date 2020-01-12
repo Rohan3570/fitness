@@ -69,6 +69,10 @@ p{
         background-color: var(--green) !important;
 }
 
+.bg-yellow{
+        background-color: var(--yellow) !important;
+}
+
 .navbar ul li a {
         color: var(--white) !important;
         transition: color 0.8s ease-in-out;
