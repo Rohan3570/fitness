@@ -538,14 +538,11 @@ video{
 /* ============================ what we do(about)==================================*/
 
 .carousel{
-	height: 90vh;
+	height: 70vh;
 	overflow-y: hidden;
 }
-.about-carousel-image{
-        height: 100vh;
-}
-.carousel-caption{
-	height: 55vh !important;
+.blockquote{
+	height: 250px;
 	overflow-y: hidden;
 }
 .c-margin-about{
@@ -584,7 +581,7 @@ video{
 
 @media (max-width: 992px){
 	.carousel{
-		height: 90vh;
+		height: auto;
 	}
 	.carousel-caption{
 		height: auto !important;
@@ -595,7 +592,7 @@ video{
 
 @media (max-width: 768px){
 	.carousel{
-		height: 80vh;
+		height: auto !important;
 	}
 	.carousel-caption{
 		height: auto !important;
@@ -611,6 +608,10 @@ video{
         }
         .c-margin-about{
                 margin-top: 0;
+        }
+        .blockquote{
+                height: 90vh;
+                overflow-y: hidden;
         }
 }
 
@@ -634,10 +635,14 @@ video{
 		width:200px;
 	}
 	.carousel{
-		height: 100vh !important;
+		height: auto !important;
         }
         .cust-plus-sign{
                 font-size: 20px;
+        }
+        .blockquote{
+                height: 90vh;
+                overflow-y: hidden;
         }
 	
 }
@@ -652,17 +657,19 @@ video{
 
 /* ============================ Our programme==================================*/
 
-.programme-welcome-section{
-	background-image: url(../img/AdobeStock_284840354_Preview.jpeg);
-	background-size: cover;
-	background-position: center;
-	background-color: var(--white);
-	background-blend-mode: multiply;
-	height: 60vh;
-}
+
 
 .programs-for-all{
-        background-color: var(--green);
+        background-color: var(--yellow);
+}
+
+.specialized-curriculam{
+        background-image: url(../img/images/slide-5.JPG);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: rgb(134, 134, 134);
+        background-blend-mode: multiply;
 }
 
 @media (max-width: 768px){
