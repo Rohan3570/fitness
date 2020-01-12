@@ -538,8 +538,11 @@ video{
 /* ============================ what we do(about)==================================*/
 
 .carousel{
-	height: 70vh;
+	height: 90vh;
 	overflow-y: hidden;
+}
+.about-carousel-image{
+        height: 100vh;
 }
 .carousel-caption{
 	height: 55vh !important;
@@ -581,7 +584,7 @@ video{
 
 @media (max-width: 992px){
 	.carousel{
-		height: auto;
+		height: 90vh;
 	}
 	.carousel-caption{
 		height: auto !important;
@@ -592,7 +595,7 @@ video{
 
 @media (max-width: 768px){
 	.carousel{
-		height: auto !important;
+		height: 80vh;
 	}
 	.carousel-caption{
 		height: auto !important;
@@ -631,7 +634,7 @@ video{
 		width:200px;
 	}
 	.carousel{
-		height: auto !important;
+		height: 100vh !important;
         }
         .cust-plus-sign{
                 font-size: 20px;
