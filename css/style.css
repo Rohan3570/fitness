@@ -542,7 +542,7 @@ video{
 	overflow-y: hidden;
 }
 .blockquote{
-	height: 250px;
+	height: 400px;
 	overflow-y: hidden;
 }
 .c-margin-about{
@@ -610,7 +610,7 @@ video{
                 margin-top: 0;
         }
         .blockquote{
-                height: 90vh;
+                height: auto;
                 overflow-y: hidden;
         }
 }
