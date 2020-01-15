@@ -470,7 +470,7 @@ video{
 	background-image: url(../img/images/school-program.JPG);
 	background-size: cover;
 	background-position: center;
-	background-color: var(--white);
+	background-color: #aaaaaa;
 	background-blend-mode: multiply;
 	height: 40vh;
 }
