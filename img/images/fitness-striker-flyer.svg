@@ -17,6 +17,81 @@
   </defs>
   <g id="fitness-striker-flyer" clip-path="url(#clip-fitness-striker-flyer)">
     <rect width="3218" height="12746" fill="#f6f6f6"/>
+    <g id="Group_196" data-name="Group 196">
+      <line id="Line_15" data-name="Line 15" x1="256" y1="353" transform="translate(1855.5 9348.5)" fill="none" stroke="#86e1f3" stroke-width="50"/>
+      <circle id="Ellipse_53" data-name="Ellipse 53" cx="255.5" cy="255.5" r="255.5" transform="translate(1917 9584)" fill="#86e1f3"/>
+      <text id="Structured_curriculum" data-name="Structured
+curriculum" transform="translate(2173 9821)" font-size="70" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="-160.02" y="0">Structured</tspan><tspan x="-163.975" y="88">curriculum</tspan></text>
+    </g>
+    <g id="Group_201" data-name="Group 201">
+      <line id="Line_4" data-name="Line 4" y2="366" transform="translate(1609.5 7987.5)" fill="none" stroke="#ffbe7d" stroke-width="50"/>
+      <circle id="Ellipse_51" data-name="Ellipse 51" cx="255" cy="255" r="255" transform="translate(1355 7522)" fill="#ffbe7d"/>
+      <text id="Structured_curriculum-2" data-name="Structured
+curriculum" transform="translate(1610 7758)" font-size="70" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="-160.02" y="0">Structured</tspan><tspan x="-163.975" y="88">curriculum</tspan></text>
+    </g>
+    <g id="Group_202" data-name="Group 202">
+      <line id="Line_12" data-name="Line 12" x1="256" y1="353" transform="translate(1128.5 8123.5)" fill="none" stroke="#fe8585" stroke-width="50"/>
+      <circle id="Ellipse_60" data-name="Ellipse 60" cx="255" cy="255" r="255" transform="translate(786 7698)" fill="#fe8585"/>
+      <text id="Health_Checkup" data-name="Health
+Checkup" transform="translate(1041 7934)" font-size="70" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="-99.4" y="0">Health</tspan><tspan x="-130.375" y="88">Checkup</tspan></text>
+    </g>
+    <g id="Group_200" data-name="Group 200">
+      <line id="Line_11" data-name="Line 11" x1="236" y2="344" transform="translate(1865.5 8094.5)" fill="none" stroke="#f5ce81" stroke-width="50"/>
+      <circle id="Ellipse_56" data-name="Ellipse 56" cx="254.5" cy="254.5" r="254.5" transform="translate(1928 7699)" fill="#f5ce81"/>
+      <text id="Structured_curriculum-3" data-name="Structured
+curriculum" transform="translate(2183 7935)" font-size="70" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="-160.02" y="0">Structured</tspan><tspan x="-163.975" y="88">curriculum</tspan></text>
+    </g>
+    <g id="Group_199" data-name="Group 199">
+      <line id="Line_10" data-name="Line 10" x1="413" y2="228" transform="translate(2019.5 8437.5)" fill="none" stroke="#bafb82" stroke-width="50"/>
+      <ellipse id="Ellipse_55" data-name="Ellipse 55" cx="255.5" cy="255" rx="255.5" ry="255" transform="translate(2346 8089)" fill="#bafb82"/>
+      <text id="Health_Skill_Assessment" data-name="Health &amp;
+Skill 
+Assessment" transform="translate(2602 8281)" font-size="70" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="-128.625" y="0">Health &amp;</tspan><tspan x="-71.75" y="88">Skill </tspan><tspan x="-177.31" y="176">Assessment</tspan></text>
+    </g>
+    <g id="Group_198" data-name="Group 198">
+      <line id="Line_6" data-name="Line 6" x2="372" transform="translate(2151.5 8893.5)" fill="none" stroke="#7eefb3" stroke-width="50"/>
+      <circle id="Ellipse_50" data-name="Ellipse 50" cx="255.5" cy="255.5" r="255.5" transform="translate(2524 8637)" fill="#7eefb3"/>
+      <text id="Trained_Trainers" data-name="Trained 
+Trainers" transform="translate(2780 8874)" font-size="70" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="-120.82" y="0">Trained </tspan><tspan x="-121.065" y="88">Trainers</tspan></text>
+    </g>
+    <g id="Group_197" data-name="Group 197">
+      <line id="Line_14" data-name="Line 14" x1="344" y1="200" transform="translate(2054.5 9148.5)" fill="none" stroke="#efdd97" stroke-width="50"/>
+      <ellipse id="Ellipse_54" data-name="Ellipse 54" cx="254.5" cy="255" rx="254.5" ry="255" transform="translate(2358 9192)" fill="#efdd97"/>
+      <text id="Structured_curriculum-4" data-name="Structured
+curriculum" transform="translate(2613 9428)" font-size="70" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="-160.02" y="0">Structured</tspan><tspan x="-163.975" y="88">curriculum</tspan></text>
+    </g>
+    <g id="Group_207" data-name="Group 207">
+      <line id="Line_5" data-name="Line 5" y2="366" transform="translate(1609.5 9378.5)" fill="none" stroke="#f9f993" stroke-width="50"/>
+      <circle id="Ellipse_52" data-name="Ellipse 52" cx="255" cy="255" r="255" transform="translate(1355 9744)" fill="#f9f993"/>
+      <text id="Age_Appropriate_props" data-name="Age
+Appropriate
+props" transform="translate(1610 9936)" font-size="70" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="-54.46" y="0">Age</tspan><tspan x="-179.235" y="88">Appropriate</tspan><tspan x="-86.1" y="176">props</tspan></text>
+    </g>
+    <g id="Group_206" data-name="Group 206">
+      <line id="Line_8" data-name="Line 8" x1="236" y2="344" transform="translate(1148.5 9311.5)" fill="none" stroke="#f292b2" stroke-width="50"/>
+      <circle id="Ellipse_57" data-name="Ellipse 57" cx="255" cy="255" r="255" transform="translate(780 9583)" fill="#f292b2"/>
+      <text id="Structured_curriculum-5" data-name="Structured
+curriculum" transform="translate(1035 9819)" font-size="70" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="-160.02" y="0">Structured</tspan><tspan x="-163.975" y="88">curriculum</tspan></text>
+    </g>
+    <g id="Group_205" data-name="Group 205">
+      <line id="Line_9" data-name="Line 9" x1="413" y2="228" transform="translate(786.5 9131.5)" fill="none" stroke="#f3ace3" stroke-width="50"/>
+      <circle id="Ellipse_58" data-name="Ellipse 58" cx="255.5" cy="255.5" r="255.5" transform="translate(349 9193)" fill="#f3ace3"/>
+      <text id="Structured_curriculum-6" data-name="Structured
+curriculum" transform="translate(605 9430)" font-size="70" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="-160.02" y="0">Structured</tspan><tspan x="-163.975" y="88">curriculum</tspan></text>
+    </g>
+    <g id="Group_204" data-name="Group 204">
+      <line id="Line_7" data-name="Line 7" x2="410" y2="2" transform="translate(672.5 8892.5)" fill="none" stroke="#df94ff" stroke-width="50"/>
+      <circle id="Ellipse_49" data-name="Ellipse 49" cx="255.5" cy="255.5" r="255.5" transform="translate(177 8637)" fill="#df94ff"/>
+      <text id="Program_Monitoring_System" data-name="Program
+Monitoring
+System" transform="translate(433 8830)" font-size="70" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="-128.905" y="0">Program</tspan><tspan x="-164.115" y="88">Monitoring</tspan><tspan x="-108.99" y="176">System</tspan></text>
+    </g>
+    <g id="Group_203" data-name="Group 203">
+      <line id="Line_13" data-name="Line 13" x1="344" y1="200" transform="translate(804.5 8437.5)" fill="none" stroke="#bc93f3" stroke-width="50"/>
+      <ellipse id="Ellipse_59" data-name="Ellipse 59" cx="255.5" cy="255" rx="255.5" ry="255" transform="translate(352 8094)" fill="#bc93f3"/>
+      <text id="Structured_curriculum-7" data-name="Structured
+curriculum" transform="translate(608 8330)" font-size="70" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="-160.02" y="0">Structured</tspan><tspan x="-163.975" y="88">curriculum</tspan></text>
+    </g>
     <g id="Group_156" data-name="Group 156" transform="translate(0 227)">
       <g id="kinderBlossom" transform="translate(141 113)">
         <g id="Group_19" data-name="Group 19" transform="translate(0)">
@@ -57,27 +132,21 @@
         <text id="CHAMP-2" data-name="CHAMP" transform="translate(101.244 207)" fill="#fff" font-size="230" font-family="SourceSansPro-Black, Source Sans Pro" font-weight="800"><tspan x="0" y="0">CHAMP</tspan></text>
       </g>
     </g>
-    <g id="Group_148" data-name="Group 148" transform="translate(0 280)">
-      <text id="EMPOWERING_FITNESS_THROUGH_KID_FIT_SCHOOL_PROGRAM_" data-name="EMPOWERING  “FITNESS” THROUGH
- KID FIT SCHOOL PROGRAM " transform="translate(1609 812)" fill="#50ace9" font-size="153" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-1224.536" y="0" xml:space="preserve">EMPOWERING  “</tspan><tspan y="0" fill="#fed638">FITNESS</tspan><tspan y="0">” THROUGH</tspan><tspan x="-925.65" y="193" text-decoration="underline"> </tspan><tspan y="193" fill="#fed638" text-decoration="underline">KID FIT</tspan><tspan y="193" xml:space="preserve" text-decoration="underline"> SCHOOL PROGRAM</tspan><tspan y="193"> </tspan></text>
-      <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._At_vero_eos_et_accusam_et_justo_duo_dolores_et_ea_rebum._Stet_clita_kasd_gubergren_no_sea_takimata_" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata " transform="translate(387 1149)" font-size="60" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="59">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor </tspan><tspan x="0" y="134">invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et </tspan><tspan x="0" y="209">justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem </tspan><tspan x="0" y="284">ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy </tspan><tspan x="0" y="359">eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos </tspan></text>
+    <g id="Group_148" data-name="Group 148" transform="translate(0 170)">
+      <text id="EMPOWERED_FITNESS_THROUGH_KID_FIT_SCHOOL_PROGRAM_" data-name="EMPOWERED  “FITNESS” THROUGH
+ KID FIT SCHOOL PROGRAM " transform="translate(1609 812)" fill="#50ace9" font-size="153" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-1192.329" y="0" xml:space="preserve">EMPOWERED  “</tspan><tspan y="0" fill="#fed638">FITNESS</tspan><tspan y="0">” THROUGH</tspan><tspan x="-925.65" y="193" text-decoration="underline"> </tspan><tspan y="193" fill="#fed638" text-decoration="underline">KID FIT</tspan><tspan y="193" xml:space="preserve" text-decoration="underline"> SCHOOL PROGRAM</tspan><tspan y="193"> </tspan></text>
+      <text id="Fitness_Striker_introducing_a_Age_appropriate_sports_and_fitness_school_curriculum_at_an_early_stage_so_that_is_can_serve_as_a_building_block_for_the_generations._" data-name="Fitness Striker introducing a Age appropriate sports and fitness school curriculum at an early stage so that is can serve as a building block for the generations. 
+
+
+
+ " transform="translate(387 1149)" font-size="60" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="59">Fitness Striker introducing a Age appropriate sports and fitness school curriculum at an early </tspan><tspan x="0" y="134">stage so that is can serve as a building block for the generations. </tspan></text>
+      <text id="We_at_Fitness_striker_develop_physical_agility_of_kids_through_a_research_based_curriculum_which_is_well_amalgamated_with_the_regular_school_syllabus_to_give_them_a_better_cumulative_learning." data-name="We at Fitness striker develop physical agility of kids through a research based curriculum which is well amalgamated with the regular school syllabus to give them a better cumulative learning." transform="translate(387 1338)" font-size="60" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="59">We at Fitness striker develop physical agility of kids through a research based curriculum which is </tspan><tspan x="0" y="134">well amalgamated with the regular school syllabus to give them a better cumulative learning.</tspan></text>
+      <text id="The_lesson_plans_will_be_implemented_for_the_entire_academic_year_in_a_structured_and_phased_manner._The_same_will_be_based_on_the_school_s_time-table_with_a_judicious_mix_of_fitness_and_sports_skills._The_curriculum_will_be_integrated_into_the_school_s_cu" data-name="The lesson plans will be implemented for the entire academic year in a structured and phased manner. The same will be based on the school’s time-table with a judicious mix of fitness and sports skills. The curriculum will be integrated into the school&apos;s cu" transform="translate(387 1527)" font-size="60" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="59">The lesson plans will be implemented for the entire academic year in a structured and phased </tspan><tspan x="0" y="134">manner. The same will be based on the school’s time-table with a judicious mix of fitness and </tspan><tspan x="0" y="209">sports skills. The curriculum will be integrated into the school&apos;s current PE program and will be </tspan><tspan x="0" y="284">deployed during school hours.</tspan></text>
     </g>
-    <g id="settings" transform="translate(1389.478 1995)">
-      <text id="PROGRAM_FRAMEWORK" data-name="PROGRAM FRAMEWORK" transform="translate(-1009.978 87)" fill="#50ace9" font-size="88" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="0" y="0">PROGRAM </tspan><tspan y="0" fill="#fed638">FRAMEWORK</tspan></text>
-      <g id="Group_184" data-name="Group 184" transform="translate(26.522 12)">
-        <g id="Rectangle_38" data-name="Rectangle 38" fill="none" stroke="#50ace9" stroke-width="5">
-          <rect width="44" height="57" stroke="none"/>
-          <rect x="2.5" y="2.5" width="39" height="52" fill="none"/>
-        </g>
-        <g id="Rectangle_39" data-name="Rectangle 39" transform="translate(16 19)" fill="none" stroke="#fed638" stroke-width="5">
-          <rect width="44" height="57" stroke="none"/>
-          <rect x="2.5" y="2.5" width="39" height="52" fill="none"/>
-        </g>
-      </g>
-    </g>
-    <g id="Group_152" data-name="Group 152" transform="translate(0 -290)">
+    <g id="Group_152" data-name="Group 152" transform="translate(0 -170)">
       <text id="SPORTS_PROGRAM" data-name="SPORTS PROGRAM" transform="translate(1272 5696)" fill="#50ace9" font-size="88" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="0" y="0">SPORTS </tspan><tspan y="0" fill="#fed638">PROGRAM</tspan></text>
-      <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._At_vero_eos_et_accusam_et_justo_duo_dolores_et_ea_rebum._Stet_clita_kasd_gubergren_no_sea_takimata_2" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata " transform="translate(578 6149)" font-size="60" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="59">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod </tspan><tspan x="0" y="134">tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At </tspan><tspan x="0" y="209">vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no </tspan><tspan x="0" y="284">sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet</tspan></text>
+      <text id="The_sports_Program_is_developed_specifically_to_import_coaching_across_multiple_age_groups._Coaching_Levels:_BASIC-_INTERMEDIATE-PROFICIENT_Sports_specific_technical_drills_strategy_match_play_Team_building." data-name="The sports Program is developed specifically to import coaching across multiple age groups. Coaching Levels: BASIC- INTERMEDIATE-PROFICIENT
+Sports specific technical drills , strategy , match play &amp; Team building." transform="translate(578 6313)" font-size="60" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="59">The sports Program is developed specifically to import coaching across multiple </tspan><tspan x="0" y="134">age groups. Coaching Levels: BASIC- INTERMEDIATE-PROFICIENT</tspan><tspan x="0" y="209">Sports specific technical drills , strategy , match play &amp; Team building.</tspan></text>
       <g id="Group_130" data-name="Group 130">
         <g id="Rectangle_31" data-name="Rectangle 31" transform="translate(371 5513)" fill="none" stroke="#fed638" stroke-width="20">
           <rect width="2476" height="1126" rx="100" stroke="none"/>
@@ -494,7 +563,7 @@
     </g>
     <g id="Group_170" data-name="Group 170" transform="translate(126.5 751)">
       <text id="ASSESSMENT_REPORT" data-name="ASSESSMENT &amp; REPORT" transform="translate(261.5 9895)" fill="#50ace9" font-size="88" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="0" y="0">ASSESSMENT &amp;</tspan><tspan y="0" xml:space="preserve" fill="#fed638"> REPORT</tspan></text>
-      <g id="report" transform="translate(1312.833 9789)">
+      <g id="report" transform="translate(1381.468 9789)">
         <ellipse id="Ellipse_47" data-name="Ellipse 47" cx="71" cy="71.5" rx="71" ry="71.5" transform="translate(0 6)" fill="#445ea0"/>
         <path id="Path_346" data-name="Path 346" d="M70.152,173.05A1.457,1.457,0,0,1,68.7,171.6V71.247H59.088A1.457,1.457,0,0,0,57.635,72.7v97.2a71.6,71.6,0,0,0,13.68,14.217h80.3a1.457,1.457,0,0,0,1.453-1.453v-9.612Z" transform="translate(-44.086 -50.547)" fill="#ffaf10"/>
         <path id="Path_347" data-name="Path 347" d="M63.155,72.7a1.457,1.457,0,0,1,1.453-1.453h-5.52A1.457,1.457,0,0,0,57.635,72.7v97.2a71.787,71.787,0,0,0,5.52,6.707Z" transform="translate(-44.086 -50.547)" fill="#ef9614"/>
@@ -534,8 +603,8 @@
       </g>
     </g>
     <g id="Rectangle_34" data-name="Rectangle 34" transform="translate(387 10795)" fill="#e2e1e1" stroke="#059522" stroke-width="50">
-      <rect width="1222" height="1581" stroke="none"/>
-      <rect x="25" y="25" width="1172" height="1531" fill="none"/>
+      <rect width="1222" height="1696" stroke="none"/>
+      <rect x="25" y="25" width="1172" height="1646" fill="none"/>
     </g>
     <text id="Child" transform="translate(915 10954)" font-size="70" font-family="SourceSansPro-Black, Source Sans Pro" font-weight="800" letter-spacing="0.013em"><tspan x="0" y="0">Child</tspan></text>
     <text id="Health_related_Assessment" data-name="Health related
@@ -544,9 +613,11 @@ Assessment" transform="translate(672 11187)" font-size="59" font-family="SourceS
 Assessment" transform="translate(1326 11187)" font-size="59" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="-150.273" y="0">Skill related</tspan><tspan x="-149.447" y="74">Assessment</tspan></text>
     <line id="Line_1" data-name="Line 1" y2="89" transform="translate(998.5 10967.259)" fill="none" stroke="#fff" stroke-width="15"/>
     <path id="Path_373" data-name="Path 373" d="M0,0V89" transform="translate(1359.5 11055)" fill="none" stroke="#fff" stroke-width="15"/>
+    <path id="Path_411" data-name="Path 411" d="M0,102.278V0" transform="translate(1359.5 12090.149)" fill="none" stroke="#fff" stroke-width="15"/>
     <path id="Path_376" data-name="Path 376" d="M0,95.241V0" transform="translate(1359.5 11276.188)" fill="none" stroke="#fff" stroke-width="15"/>
     <line id="Line_2" data-name="Line 2" x1="375" transform="translate(991.5 11062.475)" fill="none" stroke="#fff" stroke-width="15"/>
     <path id="Path_374" data-name="Path 374" d="M0,0V89" transform="translate(611 11056)" fill="none" stroke="#fff" stroke-width="15"/>
+    <path id="Path_410" data-name="Path 410" d="M0,102.278V0" transform="translate(611 12089)" fill="none" stroke="#fff" stroke-width="15"/>
     <path id="Path_375" data-name="Path 375" d="M0,95.241V0" transform="translate(611 11276.188)" fill="none" stroke="#fff" stroke-width="15"/>
     <line id="Line_3" data-name="Line 3" x2="395" transform="translate(604 11062.475)" fill="none" stroke="#fff" stroke-width="15"/>
     <g id="Group_141" data-name="Group 141" transform="translate(0 575)">
@@ -596,7 +667,7 @@ Assessment" transform="translate(1326 11187)" font-size="59" font-family="Source
         <path id="Path_409" data-name="Path 409" d="M759.088-108.28,656.391-60.2,692.95-47.6C501.5,173.7,250.231,283.771-37.149,331.643l5.014,30.053c292.256-48.678,551.7-162.113,748.541-389.841L735.924,2.734l23.166-111.01Z" transform="translate(58.066 0)" fill="url(#linear-gradient-2)"/>
       </g>
     </g>
-    <g id="Group_194" data-name="Group 194" transform="translate(0 -340)">
+    <g id="Group_194" data-name="Group 194" transform="translate(0 -180)">
       <g id="Group_193" data-name="Group 193" transform="translate(716.706 4601)">
         <g id="kinderBlossom-2" data-name="kinderBlossom" transform="translate(140.919 -123.648)">
           <g id="Group_19-2" data-name="Group 19" transform="translate(0 0)">
@@ -622,7 +693,7 @@ Assessment" transform="translate(1326 11187)" font-size="59" font-family="Source
             <rect x="0.5" y="0.5" width="455" height="124" rx="21.5" fill="none"/>
           </g>
           <text id="SENIOR-4" data-name="SENIOR" transform="translate(43.409 113.216)" fill="#38bafe" font-size="115" font-family="SourceSansPro-Black, Source Sans Pro" font-weight="800"><tspan x="0" y="0">SENIOR</tspan></text>
-          <text id="CHAMP-3" data-name="CHAMP" transform="translate(59.409 238.216)" fill="#fff" font-size="112" font-family="SourceSansPro-Black, Source Sans Pro" font-weight="800"><tspan x="0" y="0">CHAMP</tspan></text>
+          <text id="CHAMP-3" data-name="CHAMP" transform="translate(59.409 226.216)" fill="#fff" font-size="112" font-family="SourceSansPro-Black, Source Sans Pro" font-weight="800"><tspan x="0" y="0">CHAMP</tspan></text>
         </g>
         <g id="prime-3" data-name="prime" transform="translate(649.414 -126)">
           <g id="Rectangle_24-6" data-name="Rectangle 24" transform="translate(0 122.667)" fill="#fff" stroke="#e5d8a5" stroke-width="50">
@@ -642,15 +713,17 @@ Assessment" transform="translate(1326 11187)" font-size="59" font-family="Source
         <rect x="10" y="10" width="2456" height="896" rx="90" fill="none"/>
       </g>
       <text id="FITNESS_STRIKER_PE_PROGRAM" data-name="FITNESS STRIKER PE PROGRAM" transform="translate(979 4320)" fill="#fed638" font-size="88" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="0" y="0">FITNESS</tspan><tspan y="0" xml:space="preserve" fill="#50ace9"> STRIKER PE PROGRAM</tspan></text>
-      <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._At_vero_eos_et_accusam_et_justo_duo_dolores_et_ea_rebum._Stet_clita_kasd_gubergren_no_sea_takimata_3" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata " transform="translate(578 4846)" font-size="60" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="59">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod </tspan><tspan x="0" y="134">tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At </tspan><tspan x="0" y="209">vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no </tspan><tspan x="0" y="284">sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet</tspan></text>
+      <text id="Physical_education_program_for_children_covering_kindergarten_Primary_and_High_School._Each_module_is_designed_to_develop_age-specific_physical_attributes_and_learning_objectives._Children_are_assessed_periodically_to_track_their_progress_from_Beginner_" data-name="Physical education program for children covering kindergarten, Primary and High School. Each module is designed to develop age-specific physical attributes and 
+learning objectives. Children are assessed periodically to track their progress from 
+Beginner," transform="translate(578 4846)" font-size="60" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="59">Physical education program for children covering kindergarten, Primary and High </tspan><tspan x="0" y="134">School. Each module is designed to develop age-specific physical attributes and </tspan><tspan x="0" y="209">learning objectives. Children are assessed periodically to track their progress from </tspan><tspan x="0" y="284">Beginner, to Intermediate and Proficient level.</tspan></text>
     </g>
-    <g id="Group_171" data-name="Group 171" transform="translate(0 2040)">
+    <g id="Group_171" data-name="Group 171" transform="translate(0 2090)">
       <g id="Rectangle_30" data-name="Rectangle 30" transform="translate(371 4584)" fill="none" stroke="#50ace9" stroke-width="20">
         <rect width="2476" height="715" rx="100" stroke="none"/>
         <rect x="10" y="10" width="2456" height="695" rx="90" fill="none"/>
       </g>
       <text id="ATHLETICS_PROGRAM" data-name="ATHLETICS PROGRAM" transform="translate(1195 4772)" fill="#fed638" font-size="88" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="0" y="0">ATHLETICS </tspan><tspan y="0" fill="#50ace9">PROGRAM</tspan></text>
-      <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._At_vero_eos_et_accusam_et_justo_duo_dolores_et_ea_rebum._Stet_clita_kasd_gubergren_no_sea_takimata_4" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata " transform="translate(578 4882)" font-size="60" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="59">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod </tspan><tspan x="0" y="134">tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At </tspan><tspan x="0" y="209">vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no </tspan><tspan x="0" y="284">sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet</tspan></text>
+      <text id="Athletics_build_the_foundation_for_all_sports._The_Athletics_Program_covers_various_age_groups_viz._7-10yrs_11-14yrs_and_15-16yrs._The_key_focus_is_to_develop_skills_in_Sprint_Hurdles_Long_jump_High_jump_Shot_put_Discus_throw_Javelin_throw_Triple_" data-name="Athletics build the foundation for all sports. The Athletics Program covers various age groups viz. 7-10yrs, 11-14yrs, and 15-16yrs. The key focus is to develop skills in Sprint, Hurdles, Long jump, High jump, Shot put, Discus throw, Javelin throw, Triple " transform="translate(565 4846)" font-size="60" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="59">Athletics build the foundation for all sports. The Athletics Program covers various </tspan><tspan x="0" y="134">age groups viz. 7-10yrs, 11-14yrs, and 15-16yrs. The key focus is to develop skills in </tspan><tspan x="0" y="209">Sprint, Hurdles, Long jump, High jump, Shot put, Discus throw, Javelin throw, Triple </tspan><tspan x="0" y="284">jump and Long distance run. The program is implemented with periodic evaluation </tspan><tspan x="0" y="359">process.</tspan></text>
     </g>
     <g id="Group_172" data-name="Group 172" transform="translate(0 1855)">
       <text id="Cardiovascular_endurance" data-name="Cardiovascular
@@ -700,98 +773,103 @@ composition" transform="translate(540 10105)" font-size="46" font-family="Source
       <text id="Reaction_time" data-name="Reaction time" transform="translate(48 44.916)" font-size="46" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="0" y="0">Reaction time</tspan></text>
       <text id="_6." data-name="6." transform="translate(0 44.916)" font-size="46" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="0" y="0">6.</tspan></text>
     </g>
-    <circle id="Ellipse_49" data-name="Ellipse 49" cx="255.5" cy="255.5" r="255.5" transform="translate(177 8637)" fill="#df94ff"/>
-    <circle id="Ellipse_50" data-name="Ellipse 50" cx="255.5" cy="255.5" r="255.5" transform="translate(2524 8637)" fill="#7eefb3"/>
-    <circle id="Ellipse_51" data-name="Ellipse 51" cx="255" cy="255" r="255" transform="translate(1355 7522)" fill="#ffbe7d"/>
-    <circle id="Ellipse_52" data-name="Ellipse 52" cx="255" cy="255" r="255" transform="translate(1355 9744)" fill="#f9f993"/>
-    <circle id="Ellipse_53" data-name="Ellipse 53" cx="255.5" cy="255.5" r="255.5" transform="translate(1917 9584)" fill="#86e1f3"/>
-    <circle id="Ellipse_57" data-name="Ellipse 57" cx="255" cy="255" r="255" transform="translate(780 9583)" fill="#f292b2"/>
-    <circle id="Ellipse_58" data-name="Ellipse 58" cx="255.5" cy="255.5" r="255.5" transform="translate(349 9193)" fill="#f3ace3"/>
-    <ellipse id="Ellipse_59" data-name="Ellipse 59" cx="255.5" cy="255" rx="255.5" ry="255" transform="translate(352 8094)" fill="#bc93f3"/>
     <circle id="Ellipse_61" data-name="Ellipse 61" cx="541" cy="541" r="541" transform="translate(1073 8353)" fill="#50ace9"/>
-    <circle id="Ellipse_60" data-name="Ellipse 60" cx="255" cy="255" r="255" transform="translate(786 7698)" fill="#fe8585"/>
-    <circle id="Ellipse_56" data-name="Ellipse 56" cx="254.5" cy="254.5" r="254.5" transform="translate(1928 7699)" fill="#f5ce81"/>
-    <ellipse id="Ellipse_54" data-name="Ellipse 54" cx="254.5" cy="255" rx="254.5" ry="255" transform="translate(2358 9192)" fill="#efdd97"/>
-    <ellipse id="Ellipse_55" data-name="Ellipse 55" cx="255.5" cy="255" rx="255.5" ry="255" transform="translate(2346 8089)" fill="#bafb82"/>
     <rect id="fitness_logo_rediesign_copy" data-name="fitness logo rediesign copy" width="933" height="493" transform="translate(1148 8638)" fill="url(#pattern)"/>
     <g id="Group_183" data-name="Group 183" transform="translate(1208 12006)">
       <text id="Speed" transform="translate(48 45)" font-size="46" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="0" y="0">Speed</tspan></text>
       <text id="_7" data-name="7" transform="translate(0 45)" font-size="46" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="0" y="0">7</tspan></text>
     </g>
-    <g id="Group_195" data-name="Group 195">
-      <g id="Rectangle_40" data-name="Rectangle 40" transform="translate(387 2264)" fill="none" stroke="#50ace9" stroke-width="15">
-        <rect width="2444" height="1456" rx="100" stroke="none"/>
-        <rect x="7.5" y="7.5" width="2429" height="1441" rx="92.5" fill="none"/>
+    <g id="Group_208" data-name="Group 208" transform="translate(0 160)">
+      <g id="settings" transform="translate(1389.478 1995)">
+        <text id="PROGRAM_FRAMEWORK" data-name="PROGRAM FRAMEWORK" transform="translate(-1009.978 87)" fill="#50ace9" font-size="88" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="0" y="0">PROGRAM </tspan><tspan y="0" fill="#fed638">FRAMEWORK</tspan></text>
+        <g id="Group_184" data-name="Group 184" transform="translate(26.522 12)">
+          <g id="Rectangle_38" data-name="Rectangle 38" fill="none" stroke="#50ace9" stroke-width="5">
+            <rect width="44" height="57" stroke="none"/>
+            <rect x="2.5" y="2.5" width="39" height="52" fill="none"/>
+          </g>
+          <g id="Rectangle_39" data-name="Rectangle 39" transform="translate(16 19)" fill="none" stroke="#fed638" stroke-width="5">
+            <rect width="44" height="57" stroke="none"/>
+            <rect x="2.5" y="2.5" width="39" height="52" fill="none"/>
+          </g>
+        </g>
       </g>
-      <g id="Group_192" data-name="Group 192" transform="translate(0 -100)">
-        <text id="PLANNED_SEQUENTIAL_PROGRESSIVE" data-name="PLANNED 
+      <g id="Group_195" data-name="Group 195">
+        <g id="Rectangle_40" data-name="Rectangle 40" transform="translate(387 2264)" fill="none" stroke="#50ace9" stroke-width="15">
+          <rect width="2444" height="1456" rx="100" stroke="none"/>
+          <rect x="7.5" y="7.5" width="2429" height="1441" rx="92.5" fill="none"/>
+        </g>
+        <g id="Group_192" data-name="Group 192" transform="translate(0 -100)">
+          <text id="PLANNED_SEQUENTIAL_PROGRESSIVE" data-name="PLANNED 
 SEQUENTIAL 
 PROGRESSIVE" transform="translate(555 2559)" fill="#fed638" font-size="136" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="0" y="0">PLANNED </tspan><tspan fill="#50ace9"><tspan x="0" y="171">SEQUENTIAL</tspan><tspan y="171" fill="#fed638"> </tspan></tspan><tspan x="0" y="342">PROGRESSIVE</tspan></text>
-        <g id="Group_191" data-name="Group 191">
-          <g id="Group_190" data-name="Group 190">
-            <g id="_2-5yrs" data-name="2-5yrs" transform="translate(1885.309 2808.813)">
-              <g id="Rectangle_25" data-name="Rectangle 25" transform="translate(-0.309 0.187)" fill="#fcfbfb" stroke="#f2f241" stroke-width="10">
-                <rect width="482" height="190" rx="40" stroke="none"/>
-                <rect x="5" y="5" width="472" height="180" rx="35" fill="none"/>
-              </g>
-              <text id="_14_to_18_yrs" data-name="14 to 18 yrs" transform="translate(259.691 121.187)" fill="#f2f241" font-size="55" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-154.983" y="0">14 to 18 yrs</tspan></text>
-              <text id="Advanced_level_sports" data-name="Advanced level sports" transform="translate(501.691 25.187)" font-size="50" font-family="OpenSans-Regular, Open Sans"><tspan x="42.623" y="53">Advanced level </tspan><tspan x="143.197" y="121">sports</tspan></text>
-            </g>
-            <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="24.569" cy="24.569" rx="24.569" ry="24.569" transform="translate(1996 2520)" fill="#010002"/>
-            <path id="Path_58" data-name="Path 58" d="M85.219,11.886a44.729,44.729,0,0,0-18.791.229C25.582,16.9,12.319,64.181,16.064,100.23c1.624,15.585,26.193,15.749,24.553,0-1.363-13.138-.78-32.964,6.2-47.056v51.378c0,.605.06,1.172.087,1.755-.016.278-.082.512-.082.8,0,40.77-.071,81.524-1.755,122.262-.747,18.109,27.333,18.038,28.074,0,1.319-31.928,1.652-63.873,1.728-95.823a32.494,32.494,0,0,0,3.99.011c.082,31.95.4,63.895,1.712,95.812.747,18.038,28.826,18.109,28.074,0-1.684-40.737-1.744-81.491-1.744-122.262a15.385,15.385,0,0,0-.425-3.522c-.038-17.7-.714-35.417-.507-53.106,8.362,14.157,9.125,35.75,7.675,49.743-1.646,15.738,22.928,15.58,24.553,0C142.033,63.423,128.132,14.917,85.219,11.886Z" transform="translate(1943.541 2568.966)" fill="#010002"/>
-          </g>
-          <g id="Group_186" data-name="Group 186">
-            <g id="Group_185" data-name="Group 185">
-              <g id="_2-5yrs-2" data-name="2-5yrs" transform="translate(577 3541.479)">
-                <g id="Rectangle_25-2" data-name="Rectangle 25" transform="translate(0 0.521)" fill="#fcfbfb" stroke="#7dddfb" stroke-width="10">
-                  <rect width="482" height="200" rx="40" stroke="none"/>
-                  <rect x="5" y="5" width="472" height="190" rx="35" fill="none"/>
+          <g id="Group_191" data-name="Group 191">
+            <g id="Group_190" data-name="Group 190">
+              <g id="_2-5yrs" data-name="2-5yrs" transform="translate(1885.309 2808.813)">
+                <g id="Rectangle_25" data-name="Rectangle 25" transform="translate(-0.309 0.187)" fill="#fcfbfb" stroke="#f2f241" stroke-width="10">
+                  <rect width="482" height="190" rx="40" stroke="none"/>
+                  <rect x="5" y="5" width="472" height="180" rx="35" fill="none"/>
                 </g>
-                <text id="_2_to_5_yrs" data-name="2 to 5 yrs" transform="translate(241 115.521)" fill="#16dae1" font-size="55" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-123.589" y="0">2 to 5 yrs</tspan></text>
-                <text id="Movement_and_motor_skills" data-name="Movement and motor skills" transform="translate(482 28.521)" font-size="50" font-family="OpenSans-Regular, Open Sans"><tspan x="35.767" y="53">Movement and </tspan><tspan x="77.576" y="121">motor skills</tspan></text>
+                <text id="_14_to_18_yrs" data-name="14 to 18 yrs" transform="translate(259.691 121.187)" fill="#f2f241" font-size="55" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-154.983" y="0">14 to 18 yrs</tspan></text>
+                <text id="Advanced_level_sports" data-name="Advanced level sports" transform="translate(501.691 25.187)" font-size="50" font-family="OpenSans-Regular, Open Sans"><tspan x="42.623" y="53">Advanced level </tspan><tspan x="143.197" y="121">sports</tspan></text>
               </g>
-              <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="14.861" cy="14.861" rx="14.861" ry="14.861" transform="translate(678.81 3360.541)" fill="#010002"/>
-              <path id="Path_59" data-name="Path 59" d="M52.077,11.536a20.452,20.452,0,0,0-9.864.138c-21.441,2.9-28.4,31.492-26.437,53.3.853,9.427,13.749,9.526,12.888,0-.715-7.946-.409-19.939,3.256-28.462V67.587c0,.366.031.709.046,1.062-.009.168-.043.31-.043.481,0,24.66-.037,49.311-.921,73.951-.392,10.954,14.348,10.911,14.737,0,.692-19.312.867-38.634.907-57.959a14.81,14.81,0,0,0,2.095.007c.043,19.325.212,38.647.9,57.953.392,10.911,15.132,10.954,14.737,0-.884-24.64-.916-49.291-.916-73.951A10.656,10.656,0,0,0,63.237,67c-.02-10.706-.375-21.422-.266-32.122C67.361,43.441,67.761,56.5,67,64.965c-.864,9.519,12.035,9.424,12.888,0C81.9,42.709,74.6,13.37,52.077,11.536Z" transform="translate(646.061 3387.72)" fill="#010002"/>
+              <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="24.569" cy="24.569" rx="24.569" ry="24.569" transform="translate(1996 2520)" fill="#010002"/>
+              <path id="Path_58" data-name="Path 58" d="M85.219,11.886a44.729,44.729,0,0,0-18.791.229C25.582,16.9,12.319,64.181,16.064,100.23c1.624,15.585,26.193,15.749,24.553,0-1.363-13.138-.78-32.964,6.2-47.056v51.378c0,.605.06,1.172.087,1.755-.016.278-.082.512-.082.8,0,40.77-.071,81.524-1.755,122.262-.747,18.109,27.333,18.038,28.074,0,1.319-31.928,1.652-63.873,1.728-95.823a32.494,32.494,0,0,0,3.99.011c.082,31.95.4,63.895,1.712,95.812.747,18.038,28.826,18.109,28.074,0-1.684-40.737-1.744-81.491-1.744-122.262a15.385,15.385,0,0,0-.425-3.522c-.038-17.7-.714-35.417-.507-53.106,8.362,14.157,9.125,35.75,7.675,49.743-1.646,15.738,22.928,15.58,24.553,0C142.033,63.423,128.132,14.917,85.219,11.886Z" transform="translate(1943.541 2568.966)" fill="#010002"/>
             </g>
-          </g>
-          <g id="Group_187" data-name="Group 187">
-            <g id="_2-5yrs-3" data-name="2-5yrs" transform="translate(919.733 3364.207)">
-              <g id="Rectangle_25-3" data-name="Rectangle 25" transform="translate(0.267 -0.207)" fill="#fcfbfb" stroke="#c97dfb" stroke-width="10">
-                <rect width="481" height="178" rx="40" stroke="none"/>
-                <rect x="5" y="5" width="471" height="168" rx="35" fill="none"/>
+            <g id="Group_186" data-name="Group 186">
+              <g id="Group_185" data-name="Group 185">
+                <g id="_2-5yrs-2" data-name="2-5yrs" transform="translate(577 3541.479)">
+                  <g id="Rectangle_25-2" data-name="Rectangle 25" transform="translate(0 0.521)" fill="#fcfbfb" stroke="#7dddfb" stroke-width="10">
+                    <rect width="482" height="200" rx="40" stroke="none"/>
+                    <rect x="5" y="5" width="472" height="190" rx="35" fill="none"/>
+                  </g>
+                  <text id="_2_to_5_yrs" data-name="2 to 5 yrs" transform="translate(241 115.521)" fill="#16dae1" font-size="55" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-123.589" y="0">2 to 5 yrs</tspan></text>
+                  <text id="Movement_and_motor_skills" data-name="Movement and motor skills" transform="translate(482 28.521)" font-size="50" font-family="OpenSans-Regular, Open Sans"><tspan x="35.767" y="53">Movement and </tspan><tspan x="77.576" y="121">motor skills</tspan></text>
+                </g>
+                <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="14.861" cy="14.861" rx="14.861" ry="14.861" transform="translate(678.81 3360.541)" fill="#010002"/>
+                <path id="Path_59" data-name="Path 59" d="M52.077,11.536a20.452,20.452,0,0,0-9.864.138c-21.441,2.9-28.4,31.492-26.437,53.3.853,9.427,13.749,9.526,12.888,0-.715-7.946-.409-19.939,3.256-28.462V67.587c0,.366.031.709.046,1.062-.009.168-.043.31-.043.481,0,24.66-.037,49.311-.921,73.951-.392,10.954,14.348,10.911,14.737,0,.692-19.312.867-38.634.907-57.959a14.81,14.81,0,0,0,2.095.007c.043,19.325.212,38.647.9,57.953.392,10.911,15.132,10.954,14.737,0-.884-24.64-.916-49.291-.916-73.951A10.656,10.656,0,0,0,63.237,67c-.02-10.706-.375-21.422-.266-32.122C67.361,43.441,67.761,56.5,67,64.965c-.864,9.519,12.035,9.424,12.888,0C81.9,42.709,74.6,13.37,52.077,11.536Z" transform="translate(646.061 3387.72)" fill="#010002"/>
               </g>
-              <text id="_6_to_7_yrs" data-name="6 to 7 yrs" transform="translate(249.267 106.793)" fill="#c97dfb" font-size="55" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-123.589" y="0">6 to 7 yrs</tspan></text>
-              <text id="Experience_multiple_sports_games" data-name="Experience multiple sports &amp; games" transform="translate(459.267 20.793)" font-size="50" font-family="OpenSans-Regular, Open Sans"><tspan x="63.592" y="53">Experience multiple </tspan><tspan x="112.652" y="121">sports &amp; games</tspan></text>
             </g>
-            <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="19.879" cy="19.879" rx="19.879" ry="19.879" transform="translate(1003 3140.916)" fill="#010002"/>
-            <path id="Path_60" data-name="Path 60" d="M61.158,11.672a25.437,25.437,0,0,0-12.31.173C22.091,15.471,13.4,51.286,15.855,78.594c1.064,11.806,17.159,11.93,16.084,0-.893-9.952-.511-24.971,4.064-35.646V81.869c0,.458.039.888.057,1.33-.011.211-.054.388-.054.6,0,30.885-.046,61.757-1.15,92.616-.489,13.718,17.906,13.664,18.391,0,.864-24.187,1.082-48.385,1.132-72.588a18.413,18.413,0,0,0,2.614.008c.054,24.2.264,48.4,1.121,72.58.489,13.664,18.884,13.718,18.391,0-1.1-30.86-1.143-61.732-1.143-92.616a13.392,13.392,0,0,0-.279-2.668c-.025-13.408-.468-26.829-.332-40.23,5.478,10.724,5.978,27.081,5.028,37.682-1.078,11.922,15.02,11.8,16.084,0C98.376,50.712,89.27,13.968,61.158,11.672Z" transform="translate(967.541 3180.395)" fill="#010002"/>
-          </g>
-          <g id="Group_188" data-name="Group 188">
-            <g id="_2-5yrs-4" data-name="2-5yrs" transform="translate(1242.464 3185.722)">
-              <g id="Rectangle_25-4" data-name="Rectangle 25" transform="translate(-0.464 0.278)" fill="#fcfbfb" stroke="#8780e3" stroke-width="10">
-                <rect width="484" height="178" rx="40" stroke="none"/>
-                <rect x="5" y="5" width="474" height="168" rx="35" fill="none"/>
+            <g id="Group_187" data-name="Group 187">
+              <g id="_2-5yrs-3" data-name="2-5yrs" transform="translate(919.733 3364.207)">
+                <g id="Rectangle_25-3" data-name="Rectangle 25" transform="translate(0.267 -0.207)" fill="#fcfbfb" stroke="#c97dfb" stroke-width="10">
+                  <rect width="481" height="178" rx="40" stroke="none"/>
+                  <rect x="5" y="5" width="471" height="168" rx="35" fill="none"/>
+                </g>
+                <text id="_6_to_7_yrs" data-name="6 to 7 yrs" transform="translate(249.267 106.793)" fill="#c97dfb" font-size="55" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-123.589" y="0">6 to 7 yrs</tspan></text>
+                <text id="Experience_multiple_sports_games" data-name="Experience multiple sports &amp; games" transform="translate(459.267 20.793)" font-size="50" font-family="OpenSans-Regular, Open Sans"><tspan x="63.592" y="53">Experience multiple </tspan><tspan x="112.652" y="121">sports &amp; games</tspan></text>
               </g>
-              <text id="_8_to_10_yrs" data-name="8 to 10 yrs" transform="translate(253.536 114.278)" fill="#8780e3" font-size="55" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-139.286" y="0">8 to 10 yrs</tspan></text>
-              <text id="Sports_basic_identity_specific_sports" data-name="Sports basic &amp; identity specific sports" transform="translate(505.536 7.278)" font-size="50" font-family="OpenSans-Regular, Open Sans"><tspan x="21.71" y="53">Sports basic &amp; identity </tspan><tspan x="115.509" y="121">specific sports</tspan></text>
+              <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="19.879" cy="19.879" rx="19.879" ry="19.879" transform="translate(1003 3140.916)" fill="#010002"/>
+              <path id="Path_60" data-name="Path 60" d="M61.158,11.672a25.437,25.437,0,0,0-12.31.173C22.091,15.471,13.4,51.286,15.855,78.594c1.064,11.806,17.159,11.93,16.084,0-.893-9.952-.511-24.971,4.064-35.646V81.869c0,.458.039.888.057,1.33-.011.211-.054.388-.054.6,0,30.885-.046,61.757-1.15,92.616-.489,13.718,17.906,13.664,18.391,0,.864-24.187,1.082-48.385,1.132-72.588a18.413,18.413,0,0,0,2.614.008c.054,24.2.264,48.4,1.121,72.58.489,13.664,18.884,13.718,18.391,0-1.1-30.86-1.143-61.732-1.143-92.616a13.392,13.392,0,0,0-.279-2.668c-.025-13.408-.468-26.829-.332-40.23,5.478,10.724,5.978,27.081,5.028,37.682-1.078,11.922,15.02,11.8,16.084,0C98.376,50.712,89.27,13.968,61.158,11.672Z" transform="translate(967.541 3180.395)" fill="#010002"/>
             </g>
-            <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="19.86" cy="19.86" rx="19.86" ry="19.86" transform="translate(1357.691 2948.796)" fill="#010002"/>
-            <path id="Path_61" data-name="Path 61" d="M71.849,11.717A36.156,36.156,0,0,0,56.66,11.9C23.642,15.771,12.921,53.988,15.948,83.129c1.313,12.6,21.173,12.73,19.847,0-1.1-10.62-.63-26.646,5.015-38.037V86.623c0,.489.048.947.071,1.419-.013.225-.066.414-.066.643,0,32.956-.057,65.9-1.419,98.83-.6,14.639,22.094,14.581,22.694,0,1.066-25.809,1.335-51.631,1.4-77.458a26.268,26.268,0,0,0,3.226.009c.066,25.827.326,51.649,1.384,77.449.6,14.581,23.3,14.639,22.694,0-1.362-32.93-1.41-65.873-1.41-98.83a12.437,12.437,0,0,0-.344-2.847C89,71.531,88.458,57.21,88.625,42.91c6.76,11.444,7.377,28.9,6.2,40.21-1.331,12.722,18.534,12.594,19.847,0C117.774,53.376,106.538,14.167,71.849,11.717Z" transform="translate(1310.718 2988.138)" fill="#010002"/>
-          </g>
-          <g id="Group_189" data-name="Group 189">
-            <g id="_2-5yrs-5" data-name="2-5yrs" transform="translate(1584.577 2998.813)">
-              <g id="Rectangle_25-5" data-name="Rectangle 25" transform="translate(0.423 0.187)" fill="#fcfbfb" stroke="#72f272" stroke-width="10">
-                <rect width="481" height="187" rx="40" stroke="none"/>
-                <rect x="5" y="5" width="471" height="177" rx="35" fill="none"/>
+            <g id="Group_188" data-name="Group 188">
+              <g id="_2-5yrs-4" data-name="2-5yrs" transform="translate(1242.464 3185.722)">
+                <g id="Rectangle_25-4" data-name="Rectangle 25" transform="translate(-0.464 0.278)" fill="#fcfbfb" stroke="#8780e3" stroke-width="10">
+                  <rect width="484" height="178" rx="40" stroke="none"/>
+                  <rect x="5" y="5" width="474" height="168" rx="35" fill="none"/>
+                </g>
+                <text id="_8_to_10_yrs" data-name="8 to 10 yrs" transform="translate(253.536 114.278)" fill="#8780e3" font-size="55" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-139.286" y="0">8 to 10 yrs</tspan></text>
+                <text id="Sports_basic_identity_specific_sports" data-name="Sports basic &amp; identity specific sports" transform="translate(505.536 7.278)" font-size="50" font-family="OpenSans-Regular, Open Sans"><tspan x="21.71" y="53">Sports basic &amp; identity </tspan><tspan x="115.509" y="121">specific sports</tspan></text>
               </g>
-              <text id="_11_to_13_yrs" data-name="11 to 13 yrs" transform="translate(88.423 116.187)" fill="#72f272" font-size="55" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">11 to 13 yrs</tspan></text>
-              <text id="Specialized_specific_sports" data-name="Specialized specific sports" transform="translate(481.423 24.187)" font-size="50" font-family="OpenSans-Regular, Open Sans"><tspan x="54.43" y="53">Specialized specific </tspan><tspan x="202.697" y="121">sports</tspan></text>
+              <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="19.86" cy="19.86" rx="19.86" ry="19.86" transform="translate(1357.691 2948.796)" fill="#010002"/>
+              <path id="Path_61" data-name="Path 61" d="M71.849,11.717A36.156,36.156,0,0,0,56.66,11.9C23.642,15.771,12.921,53.988,15.948,83.129c1.313,12.6,21.173,12.73,19.847,0-1.1-10.62-.63-26.646,5.015-38.037V86.623c0,.489.048.947.071,1.419-.013.225-.066.414-.066.643,0,32.956-.057,65.9-1.419,98.83-.6,14.639,22.094,14.581,22.694,0,1.066-25.809,1.335-51.631,1.4-77.458a26.268,26.268,0,0,0,3.226.009c.066,25.827.326,51.649,1.384,77.449.6,14.581,23.3,14.639,22.694,0-1.362-32.93-1.41-65.873-1.41-98.83a12.437,12.437,0,0,0-.344-2.847C89,71.531,88.458,57.21,88.625,42.91c6.76,11.444,7.377,28.9,6.2,40.21-1.331,12.722,18.534,12.594,19.847,0C117.774,53.376,106.538,14.167,71.849,11.717Z" transform="translate(1310.718 2988.138)" fill="#010002"/>
             </g>
-            <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="21.633" cy="21.633" rx="21.633" ry="21.633" transform="translate(1677.576 2740.577)" fill="#010002"/>
-            <path id="Path_62" data-name="Path 62" d="M76.884,11.781a39.384,39.384,0,0,0-16.545.2C24.372,16.2,12.694,57.826,15.992,89.568c1.43,13.723,23.064,13.867,21.619,0-1.2-11.568-.686-29.025,5.462-41.433V93.375c0,.533.053,1.032.077,1.546-.014.245-.072.451-.072.7,0,35.9-.062,71.783-1.546,107.653-.658,15.945,24.067,15.883,24.72,0,1.162-28.113,1.454-56.241,1.522-84.373a28.616,28.616,0,0,0,3.514.01c.072,28.132.355,56.26,1.507,84.364.658,15.883,25.382,15.945,24.72,0-1.483-35.87-1.536-71.754-1.536-107.653a13.546,13.546,0,0,0-.374-3.1c-.034-15.585-.629-31.185-.446-46.761,7.363,12.465,8.035,31.478,6.758,43.8-1.45,13.857,20.189,13.718,21.619,0C126.909,57.159,114.669,14.449,76.884,11.781Z" transform="translate(1632.905 2783.91)" fill="#010002"/>
+            <g id="Group_189" data-name="Group 189">
+              <g id="_2-5yrs-5" data-name="2-5yrs" transform="translate(1584.577 2998.813)">
+                <g id="Rectangle_25-5" data-name="Rectangle 25" transform="translate(0.423 0.187)" fill="#fcfbfb" stroke="#72f272" stroke-width="10">
+                  <rect width="481" height="187" rx="40" stroke="none"/>
+                  <rect x="5" y="5" width="471" height="177" rx="35" fill="none"/>
+                </g>
+                <text id="_11_to_13_yrs" data-name="11 to 13 yrs" transform="translate(88.423 116.187)" fill="#72f272" font-size="55" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">11 to 13 yrs</tspan></text>
+                <text id="Specialized_specific_sports" data-name="Specialized specific sports" transform="translate(481.423 24.187)" font-size="50" font-family="OpenSans-Regular, Open Sans"><tspan x="54.43" y="53">Specialized specific </tspan><tspan x="202.697" y="121">sports</tspan></text>
+              </g>
+              <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="21.633" cy="21.633" rx="21.633" ry="21.633" transform="translate(1677.576 2740.577)" fill="#010002"/>
+              <path id="Path_62" data-name="Path 62" d="M76.884,11.781a39.384,39.384,0,0,0-16.545.2C24.372,16.2,12.694,57.826,15.992,89.568c1.43,13.723,23.064,13.867,21.619,0-1.2-11.568-.686-29.025,5.462-41.433V93.375c0,.533.053,1.032.077,1.546-.014.245-.072.451-.072.7,0,35.9-.062,71.783-1.546,107.653-.658,15.945,24.067,15.883,24.72,0,1.162-28.113,1.454-56.241,1.522-84.373a28.616,28.616,0,0,0,3.514.01c.072,28.132.355,56.26,1.507,84.364.658,15.883,25.382,15.945,24.72,0-1.483-35.87-1.536-71.754-1.536-107.653a13.546,13.546,0,0,0-.374-3.1c-.034-15.585-.629-31.185-.446-46.761,7.363,12.465,8.035,31.478,6.758,43.8-1.45,13.857,20.189,13.718,21.619,0C126.909,57.159,114.669,14.449,76.884,11.781Z" transform="translate(1632.905 2783.91)" fill="#010002"/>
+            </g>
           </g>
         </g>
       </g>
     </g>
+    <text id="AGE" transform="translate(568 12257)" font-size="46" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="0" y="0">AGE</tspan></text>
+    <text id="SKILL_level" data-name="SKILL level" transform="translate(1242 12258)" font-size="46" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.013em"><tspan x="0" y="0">SKILL level</tspan></text>
   </g>
 </svg>
