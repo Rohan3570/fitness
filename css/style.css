@@ -299,6 +299,8 @@ video{
         }
 }
 
+
+
 /* section 1 end */
 
 
@@ -546,7 +548,7 @@ video{
 	overflow-y: hidden;
 }
 .blockquote{
-	height: 400px;
+	height: 275px;
 	overflow-y: hidden;
 }
 .c-margin-about{
