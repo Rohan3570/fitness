@@ -16,6 +16,8 @@
         <!-- Popper JS -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 
+        <!-- Latest compiled JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 
         <title>Fitness</title>
 </head>
@@ -95,7 +97,7 @@
                 </div>
         </div>
         <div class="col-12 d-flex justify-content-end align-items-end btn-hero">
-                <button type="submit" onclick="sound()" class="btn"><i id="logo-volume" class="fas fa-volume-up" style="display: none;"></i><i id="logo-mute" class="fas fa-volume-mute"></i></button>
+                <button type="submit" onclick="sound()" class="btn"><img src="img/logo/volume.svg" id="logo-volume" class="fas fa-volume-up" style="display: none; width: 20px;"><img src="img/logo/volume-off-indicator.svg" id="logo-mute" class="fas fa-volume-mute" width="20px"></button>
         </div>
 </div>
 
@@ -103,7 +105,7 @@
 <!--video section END-->
 
 
-<section class="hero d-flex align-items-center p-5">
+<section class="hero d-flex align-items-center p-lg-5 p-md-5 p-sm-0">
         <div class="container-fluid">
                 <div class="row justify-content-center ">
                         <div class="col-12 cust-fun-background">
@@ -114,18 +116,18 @@
                 <div id="counter" class="row text-center">
 
                         <div class="col-4">
-                                <h1 class="text-yellow counter-value text-shadow" data-count="12000">100</h1>
-                                <h1 class="text-shadow">CHILDRENS</h1>
+                                <h1 class="text-yellow counter-value text-shadow font-weight-bold" data-count="12000">100</h1>
+                                <h1 class="text-shadow font-weight-bold">CHILDRENS</h1>
                         </div>
 
                         <div class="col-4">
-                                <h1 class="text-yellow counter-value text-shadow" data-count="5">1</h1>
-                                <h1 class="text-shadow">YEARS</h1>
+                                <h1 class="text-yellow counter-value text-shadow font-weight-bold" data-count="5">1</h1>
+                                <h1 class="text-shadow font-weight-bold">YEARS</h1>
                         </div>
 
                         <div class="col-4">
-                                <h1 class="text-yellow counter-value text-shadow" data-count="56">10</h1>
-                                <h1 class="text-shadow">CITIES</h1>
+                                <h1 class="text-yellow counter-value text-shadow font-weight-bold" data-count="56">10</h1>
+                                <h1 class="text-shadow font-weight-bold">CITIES</h1>
                         </div>
                 </div>
         </div>
@@ -467,11 +469,6 @@
 <!--footer end-->
 
 <script src="js/main.js"></script>
-
-<script>
-        $('.counter').countUp();
-</script>
-
 
 </body>
 </html>

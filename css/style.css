@@ -75,7 +75,8 @@ p{
 
 .navbar ul li a {
         color: var(--white) !important;
-        transition: color 0.8s ease-in-out;
+        transition: all 0.6s ease-in-out;
+        border-bottom: 3px solid #ffffff00;
 }
 .navbar ul li a:hover{
         color: var(--yellow) !important;
@@ -267,6 +268,9 @@ video{
         .hero h2{
                 display: block;
                 font-size: 25px;
+        }
+        .hero h1{
+                font-size: 18px;
         }
         .cust-test-leap{
                 display: none !important;
@@ -745,6 +749,9 @@ video{
         .choose{
                 width: 100px;
         }
+        .why-us-section h3{
+                height: 130px !important;
+        }
 
 }
 
@@ -754,6 +761,9 @@ video{
         }
         .choose{
                 width: 80px;
+        }
+        .why-us-section h3{
+                height: 100px !important;
         }
 
 }
