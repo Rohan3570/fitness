@@ -596,6 +596,10 @@ video{
 	.carousel-caption{
 		height: auto !important;
         }
+        .blockquote{
+                height: auto;
+                overflow-y: hidden;
+        }
 	
 }
 
@@ -705,6 +709,10 @@ video{
         width: 200px;
 }
 
+.team-mem-1{
+        float: left;
+}
+
 .team-member{
         border: none;
         border-radius: 20px;
@@ -718,6 +726,15 @@ video{
         }
         .carousel-caption h1{
                 font-size: 30px;
+        }
+}
+
+@media (max-width: 425px){
+        .team-mem-1{
+                float: none;
+        }
+        .team-main-heading{
+                font-size: 2.5rem !important;
         }
 }
 
