@@ -3,7 +3,7 @@
 
 :root{
 	--black: #05060a;
-	--light-blue: #0570f0;
+	--light-blue: #2e83eb;
 	--pink: #ff207c;
 	--green: #27e64b;
 	--white: #eeeeee;
@@ -51,6 +51,9 @@ p{
 .text-green{
         color: var(--green) !important;
 }
+.text-pink{
+        color: var(--pink) !important;
+}
 .text-shadow{
         text-shadow: 3px 3px 5px rgb(27, 27, 27);
 }
@@ -66,7 +69,7 @@ p{
 }
 .btn:hover{
         transform: scale(1.2);
-        background-color: var(--green) !important;
+        background-color: var(--pink) !important;
 }
 
 .bg-yellow{
@@ -135,6 +138,7 @@ video{
         text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.45);
         font-size: 3.75rem;
         font-weight: 900;
+        color: var(--yellow);
 }
 
 
@@ -473,9 +477,9 @@ video{
 /* ============================ contact page==================================*/
 
 .contact-welcome-section{
-	background-image: url(../img/images/school-program.JPG);
+	background-image: url(../img/logo/fitness\ logo\ rediesign\ copy.png);
 	background-size: cover;
-	background-position: center;
+	background-position: top;
 	background-color: #aaaaaa;
 	background-blend-mode: multiply;
 	height: 40vh;
@@ -548,7 +552,7 @@ video{
 /* ============================ what we do(about)==================================*/
 
 .carousel{
-	height: 70vh;
+	height: 550px;
 	overflow-y: hidden;
 }
 .blockquote{
@@ -781,6 +785,9 @@ video{
         }
         .why-us-section h3{
                 height: 100px !important;
+        }
+        #counter h1{
+                font-size: 20px
         }
 
 }
