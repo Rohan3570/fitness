@@ -406,6 +406,11 @@ video{
 
 /* Gallery section*/
 
+.img-fluid{
+        border: 2px dotted var(--pink);
+        padding: 10px;
+}
+
 
 .gallery {
 	-webkit-column-count: 3;
@@ -715,6 +720,8 @@ video{
 
 .team-mem-1{
         float: left;
+        border: 2px dotted pink;
+        background-color: var(--white);
 }
 
 .team-member{
