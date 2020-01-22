@@ -85,6 +85,9 @@ p{
         color: var(--yellow) !important;
         border-bottom: 3px solid var(--yellow); 
 }
+.carousel-control-prev-icon, .carousel-control-next-icon{
+        fill: var(--pink) !important;
+}
 
 /*global end */
 
