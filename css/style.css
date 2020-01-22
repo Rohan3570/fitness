@@ -407,8 +407,9 @@ video{
 /* Gallery section*/
 
 .img-fluid{
-        border: 2px dotted var(--pink);
+        border: 2px solid var(--pink);
         padding: 10px;
+        cursor: pointer;
 }
 
 
