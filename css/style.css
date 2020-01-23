@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Source+Sans+Pro:700,900&display=swap');
 
 :root{
 	--black: #05060a;
@@ -716,16 +714,21 @@ video{
 
 /* ============================ Team page==================================*/
 
-.team img{
+/* .team img{
         border: none;
         border-radius: 50%;
         width: 200px;
+        background-color: var(--yellow);
+} */
+
+.team-graphic{
+        width: 500px;
 }
 
 .team-mem-1{
         float: left;
-        border: 2px dotted pink;
-        background-color: var(--white);
+        border: 2px dotted var(--white);
+        background-color: var(--yellow);
 }
 
 .team-member{
@@ -741,6 +744,9 @@ video{
         }
         .carousel-caption h1{
                 font-size: 30px;
+        }
+        .team-graphic{
+                width: 100%;
         }
 }
 
@@ -841,6 +847,16 @@ video{
 
 /*===============================contact========================================*/
 
+.contact-graphic{
+        width: 400px;
+}
+
+@media (max-width: 768px){
+        .contact-graphic{
+                width: 100%;
+        }
+} 
+
 .career-welcome-section{
 	background-image: url(../img/images/slide-4.JPG);
 	background-size: cover;
@@ -851,3 +867,22 @@ video{
 }
 
 /*-=======-=======================contact end=================================*/
+
+
+
+
+/*-=======-=======================career=================================*/
+
+.career-graphic{
+        width: 500px;
+}
+
+@media (max-width: 768px){
+        .career-graphic{
+                width: 100%;
+        }
+}  
+
+/*-=======-=======================career end=================================*/
+
+
