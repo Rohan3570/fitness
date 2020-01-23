@@ -83,9 +83,6 @@ p{
         color: var(--yellow) !important;
         border-bottom: 3px solid var(--yellow); 
 }
-.carousel-control-prev-icon, .carousel-control-next-icon{
-        fill: var(--pink) !important;
-}
 
 /*global end */
 
@@ -217,7 +214,7 @@ video{
 
 @media (max-width:768px){
 	.carousel{
-		height: 35vh !important;
+		height: auto !important;
 	}
 	.cust-align{
 		text-align:center;
@@ -559,7 +556,7 @@ video{
 /* ============================ what we do(about)==================================*/
 
 .carousel{
-	height: 550px;
+	height: auto;
 	overflow-y: hidden;
 }
 .blockquote{
