@@ -442,7 +442,18 @@ video{
 	padding-left: 1.1rem;
 	padding-right: 1.1rem;
 	}
-	}
+}
+
+
+.close{
+        position: absolute;
+        right: 4%;
+        background-color: var(--white) !important;
+        border: 2px solid var(--white) !important;
+        border-radius: 50% !important;
+        padding: 6px 10px !important;
+
+}
 /* Gallery end */
 
 
