@@ -26,7 +26,7 @@ h1,h2,h3,h4,h5,h6{
         color: var(--light-blue);
         font-family: 'Nunito', sans-serif;
         line-height: 1;
-
+        margin-bottom: 1em;
 }
 a{
         font-family: 'Raleway', sans-serif;
@@ -39,6 +39,9 @@ a:hover {
 p{
         color: var(--black);
         font-family: 'Open sans', sans-serif;
+}
+.big-text{
+        line-height: 0.2 !important;
 }
 .text-blue{
         color: var(--light-blue) !important;
@@ -54,6 +57,9 @@ p{
 }
 .text-shadow{
         text-shadow: 3px 3px 5px rgb(27, 27, 27);
+}
+.big-text{
+        font-size: 40px;
 }
 #info-header ul li a{
         color: var(--black) !important;
@@ -457,14 +463,6 @@ video{
 /* Gallery end */
 
 
-/* subscription */
-
-.subscribe-area{
-	height: 35vh;
-}
-
-
-/* subscription end */
 
 
 
@@ -788,9 +786,6 @@ video{
         .choose{
                 width: 100px;
         }
-        .why-us-section h3{
-                height: 130px !important;
-        }
 
 }
 
@@ -800,9 +795,6 @@ video{
         }
         .choose{
                 width: 80px;
-        }
-        .why-us-section h3{
-                height: 100px !important;
         }
         #counter h1{
                 font-size: 20px
