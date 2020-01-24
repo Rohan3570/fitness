@@ -867,6 +867,12 @@ video{
         width: 500px;
 }
 
+@media (max-width: 992px){
+        .career-graphic{
+                width: 600px;
+        }
+} 
+
 @media (max-width: 768px){
         .career-graphic{
                 width: 100%;
