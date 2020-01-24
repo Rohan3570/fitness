@@ -864,7 +864,15 @@ video{
 /*-=======-=======================career=================================*/
 
 .career-graphic{
-        width: 500px;
+        width: 600px;
+        
+}
+
+.career-header{
+        width: 100%;
+        height: 500px;
+        display: flex;
+        align-items: center;
 }
 
 @media (max-width: 992px){
@@ -876,6 +884,9 @@ video{
 @media (max-width: 768px){
         .career-graphic{
                 width: 100%;
+        }
+        .career-header{
+                height: 300px;
         }
 }  
 
